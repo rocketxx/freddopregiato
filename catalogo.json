@@ -1,0 +1,2052 @@
+[
+  {
+    "nome": "ALICI INTERE",
+    "descrizione": "",
+    "immagine": "alici-intere.png"
+  },
+  {
+    "nome": "BROTULA TRANCI",
+    "descrizione": "",
+    "immagine": "brotula-tranci.png"
+  },
+  {
+    "nome": "FILETTI DI BRANZINO",
+    "descrizione": "",
+    "immagine": "filetti-di-branzino.png"
+  },
+  {
+    "nome": "BRANZINO EVISCERATO",
+    "descrizione": "",
+    "immagine": "branzino-eviscerato.png"
+  },
+  {
+    "nome": "FILETTI DI ALICI",
+    "descrizione": "",
+    "immagine": "filetti-di-alici.png"
+  },
+  {
+    "nome": "FILETTI DI CERNIA",
+    "descrizione": "",
+    "immagine": "filetti-di-cernia.png"
+  },
+  {
+    "nome": "FILETTI DI BACCALÀ NORDICO",
+    "descrizione": "",
+    "immagine": "filetti-di-baccalà-nordico.png"
+  },
+  {
+    "nome": "FILETTI DI MERLUZZO",
+    "descrizione": "",
+    "immagine": "filetti-di-merluzzo.png"
+  },
+  {
+    "nome": "LATTERINO",
+    "descrizione": "",
+    "immagine": "latterino.png"
+  },
+  {
+    "nome": "FILETTI DI ORATA",
+    "descrizione": "",
+    "immagine": "filetti-di-orata.png"
+  },
+  {
+    "nome": "FILETTI DI PLATESSA",
+    "descrizione": "",
+    "immagine": "filetti-di-platessa.png"
+  },
+  {
+    "nome": "PORZIONE DI BACCALÀ NORDICO",
+    "descrizione": "",
+    "immagine": "porzione-di-baccalà-nordico.png"
+  },
+  {
+    "nome": "BROTULA DECAPITATA",
+    "descrizione": "",
+    "immagine": "brotula-decapitata.png"
+  },
+  {
+    "nome": "PESCE GHIACCIO",
+    "descrizione": "",
+    "immagine": "pesce-ghiaccio.png"
+  },
+  {
+    "nome": "SALMONE A TRANCI",
+    "descrizione": "",
+    "immagine": "salmone-a-tranci.png"
+  },
+  {
+    "nome": "TRANCI DI LAMPUGA",
+    "descrizione": "",
+    "immagine": "tranci-di-lampuga.png"
+  },
+  {
+    "nome": "TONNO TRANCI",
+    "descrizione": "",
+    "immagine": "tonno-tranci.png"
+  },
+  {
+    "nome": "FILETTO DI RICCIOLA OCEANICA",
+    "descrizione": "",
+    "immagine": "filetto-di-ricciola-oceanica.png"
+  },
+  {
+    "nome": "LOINS DI MERLUZZO NORDICO (BACCALÀ)",
+    "descrizione": "",
+    "immagine": "loins-di-merluzzo-nordico-baccalà.png"
+  },
+  {
+    "nome": "FILETTI DI SGOMBRO",
+    "descrizione": "",
+    "immagine": "filetti-di-sgombro.png"
+  },
+  {
+    "nome": "FILETTI DI PANGASIO",
+    "descrizione": "",
+    "immagine": "filetti-di-pangasio.png"
+  },
+  {
+    "nome": "FILETTI DI SARDINE",
+    "descrizione": "",
+    "immagine": "filetti-di-sardine.png"
+  },
+  {
+    "nome": "FILETTI DI TRIGLIA",
+    "descrizione": "",
+    "immagine": "filetti-di-triglia.png"
+  },
+  {
+    "nome": "FILETTI DI PESCE SCIABOLA",
+    "descrizione": "",
+    "immagine": "filetti-di-pesce-sciabola.png"
+  },
+  {
+    "nome": "FILETTI DI SCORFANO",
+    "descrizione": "",
+    "immagine": "filetti-di-scorfano.png"
+  },
+  {
+    "nome": "FIORI DI MERLUZZO",
+    "descrizione": "",
+    "immagine": "fiori-di-merluzzo.png"
+  },
+  {
+    "nome": "MERLUZZO DECAPITATO",
+    "descrizione": "",
+    "immagine": "merluzzo-decapitato.png"
+  },
+  {
+    "nome": "SARDINE INTERE",
+    "descrizione": "",
+    "immagine": "sardine-intere.png"
+  },
+  {
+    "nome": "SURIMI DI GRANCHIO",
+    "descrizione": "",
+    "immagine": "surimi-di-granchio.png"
+  },
+  {
+    "nome": "ANELLI E CIUFFI DI CALAMARO",
+    "descrizione": "",
+    "immagine": "anelli-e-ciuffi-di-calamaro.png"
+  },
+  {
+    "nome": "CALAMARI INDIA IQF (DISPONIBILI DIVERSE PEZZATURE)",
+    "descrizione": "",
+    "immagine": "calamari-india-iqf-disponibili-diverse-pezzature.png"
+  },
+  {
+    "nome": "CALAMARI MAROCCO CONGELATI A BORDO (DISPONIBILI DIVERSE PEZZATURE)",
+    "descrizione": "",
+    "immagine": "calamari-marocco-congelati-a-bordo-disponibili-diverse-pezzature.png"
+  },
+  {
+    "nome": "CALAMARI PULITI IQF",
+    "descrizione": "",
+    "immagine": "calamari-puliti-iqf.png"
+  },
+  {
+    "nome": "CALAMARI PATAGONIA C4",
+    "descrizione": "",
+    "immagine": "calamari-patagonia-c4.png"
+  },
+  {
+    "nome": "CALAMARI PULITI BLOCK",
+    "descrizione": "",
+    "immagine": "calamari-puliti-block.png"
+  },
+  {
+    "nome": "FILONE DI TONNO",
+    "descrizione": "",
+    "immagine": "filone-di-tonno.png"
+  },
+  {
+    "nome": "CALAMARI INDIA BLOCCO INTUBATI (DISPONIBILI DIVERSE PEZZATURE)",
+    "descrizione": "",
+    "immagine": "calamari-india-blocco-intubati-disponibili-diverse-pezzature.png"
+  },
+  {
+    "nome": "ANELLI E CIUFFI DI CALAMARO SENZA PELLE",
+    "descrizione": "",
+    "immagine": "anelli-e-ciuffi-di-calamaro-senza-pelle.png"
+  },
+  {
+    "nome": "ORATA EVISCERATA",
+    "descrizione": "",
+    "immagine": "orata-eviscerata.png"
+  },
+  {
+    "nome": "PORZIONI DI SALMONE",
+    "descrizione": "",
+    "immagine": "porzioni-di-salmone.png"
+  },
+  {
+    "nome": "SOGLIOLA",
+    "descrizione": "",
+    "immagine": "sogliola.png"
+  },
+  {
+    "nome": "BURGER DI SALMONE AL NATURALE",
+    "descrizione": "",
+    "immagine": "burger-di-salmone-al-naturale.png"
+  },
+  {
+    "nome": "CALAMARETTO PUNTILLAS 3/5",
+    "descrizione": "",
+    "immagine": "calamaretto-puntillas-3-5.png"
+  },
+  {
+    "nome": "COZZE MEZZO GUSCIO",
+    "descrizione": "",
+    "immagine": "cozze-mezzo-guscio.png"
+  },
+  {
+    "nome": "SEPPIA SPORCA SENEGAL BLOCK",
+    "descrizione": "",
+    "immagine": "seppia-sporca-senegal-block.png"
+  },
+  {
+    "nome": "COZZE INTERE",
+    "descrizione": "",
+    "immagine": "cozze-intere.png"
+  },
+  {
+    "nome": "COZZE SGUSCIATE CILE",
+    "descrizione": "",
+    "immagine": "cozze-sgusciate-cile.png"
+  },
+  {
+    "nome": "POLIPETTI",
+    "descrizione": "",
+    "immagine": "polipetti.png"
+  },
+  {
+    "nome": "POLPO MAROCCO BLOCK",
+    "descrizione": "",
+    "immagine": "polpo-marocco-block.png"
+  },
+  {
+    "nome": "POLPO MAROCCO IQF VARIE PEZZATURE",
+    "descrizione": "",
+    "immagine": "polpo-marocco-iqf-varie-pezzature.png"
+  },
+  {
+    "nome": "VONGOLE CON GUSCIO",
+    "descrizione": "",
+    "immagine": "vongole-con-guscio.png"
+  },
+  {
+    "nome": "VONGOLE SGUSCIATE",
+    "descrizione": "",
+    "immagine": "vongole-sgusciate.png"
+  },
+  {
+    "nome": "CAPPESANTE",
+    "descrizione": "",
+    "immagine": "cappesante.png"
+  },
+  {
+    "nome": "SEPPIA INTERA IQF",
+    "descrizione": "",
+    "immagine": "seppia-intera-iqf.png"
+  },
+  {
+    "nome": "SEPPIA PULITA",
+    "descrizione": "",
+    "immagine": "seppia-pulita.png"
+  },
+  {
+    "nome": "SEPPIOLINE 60/UP",
+    "descrizione": "",
+    "immagine": "seppioline-60-up.png"
+  },
+  {
+    "nome": "ANELLI DI TOTANO",
+    "descrizione": "",
+    "immagine": "anelli-di-totano.png"
+  },
+  {
+    "nome": "TENTACOLI DI TOTANO TAGLIATI",
+    "descrizione": "",
+    "immagine": "tentacoli-di-totano-tagliati.png"
+  },
+  {
+    "nome": "TOTANI ARGENTINI BLOCK",
+    "descrizione": "",
+    "immagine": "totani-argentini-block.png"
+  },
+  {
+    "nome": "TOTANI ARGENTINI IQF",
+    "descrizione": "",
+    "immagine": "totani-argentini-iqf.png"
+  },
+  {
+    "nome": "CANNOLICCHI",
+    "descrizione": "",
+    "immagine": "cannolicchi.png"
+  },
+  {
+    "nome": "GAMBERONE ARGENTINO INTERO",
+    "descrizione": "",
+    "immagine": "gamberone-argentino-intero.png"
+  },
+  {
+    "nome": "ALCOCKI",
+    "descrizione": "",
+    "immagine": "alcocki.png"
+  },
+  {
+    "nome": "GAMBERO SGUSCIATO INDIA",
+    "descrizione": "",
+    "immagine": "gambero-sgusciato-india.png"
+  },
+  {
+    "nome": "SCAMPI",
+    "descrizione": "",
+    "immagine": "scampi.png"
+  },
+  {
+    "nome": "CODE DI MAZZANCOLLE",
+    "descrizione": "",
+    "immagine": "code-di-mazzancolle.png"
+  },
+  {
+    "nome": "GAMBERONE SGUSCIATO ARGENTINO",
+    "descrizione": "",
+    "immagine": "gamberone-sgusciato-argentino.png"
+  },
+  {
+    "nome": "MAZZANCOLLE SGUSCIATE ECUADOR",
+    "descrizione": "",
+    "immagine": "mazzancolle-sgusciate-ecuador.png"
+  },
+  {
+    "nome": "SCAMPI INTERI CONGELATI A BORDO",
+    "descrizione": "",
+    "immagine": "scampi-interi-congelati-a-bordo.png"
+  },
+  {
+    "nome": "GAMBERO SGUSCIATO MEDITERRRANEO",
+    "descrizione": "",
+    "immagine": "gambero-sgusciato-mediterrraneo.png"
+  },
+  {
+    "nome": "MAZZANCOLLE",
+    "descrizione": "",
+    "immagine": "mazzancolle.png"
+  },
+  {
+    "nome": "ASTICE",
+    "descrizione": "",
+    "immagine": "astice.png"
+  },
+  {
+    "nome": "GAMBERETTO INTERO",
+    "descrizione": "",
+    "immagine": "gamberetto-intero.png"
+  },
+  {
+    "nome": "CODE DI GAMBERONE ARGENTINO",
+    "descrizione": "",
+    "immagine": "code-di-gamberone-argentino.png"
+  },
+  {
+    "nome": "FILONI PESCE SPADA DI II",
+    "descrizione": "",
+    "immagine": "filoni-pesce-spada-di-ii.png"
+  },
+  {
+    "nome": "PESCE SPADA FETTE",
+    "descrizione": "",
+    "immagine": "pesce-spada-fette.png"
+  },
+  {
+    "nome": "MISTO SCOGLIO",
+    "descrizione": "",
+    "immagine": "misto-scoglio.png"
+  },
+  {
+    "nome": "PAELLA",
+    "descrizione": "",
+    "immagine": "paella.png"
+  },
+  {
+    "nome": "INSALATA DI MARE CON POLPO",
+    "descrizione": "",
+    "immagine": "insalata-di-mare-con-polpo.png"
+  },
+  {
+    "nome": "MISTO ALLA MARINARA",
+    "descrizione": "",
+    "immagine": "misto-alla-marinara.png"
+  },
+  {
+    "nome": "PREPARATO GAMBERI E ZUCCHINE",
+    "descrizione": "",
+    "immagine": "preparato-gamberi-e-zucchine.png"
+  },
+  {
+    "nome": "PREPARATO PER RISOTTO",
+    "descrizione": "",
+    "immagine": "preparato-per-risotto.png"
+  },
+  {
+    "nome": "PESCE SPADA A FILONE",
+    "descrizione": "",
+    "immagine": "pesce-spada-a-filone.png"
+  },
+  {
+    "nome": "PESCE SPADA CON PANCIA",
+    "descrizione": "",
+    "immagine": "pesce-spada-con-pancia.png"
+  },
+  {
+    "nome": "PESCE SPADA PER COTOLETTE",
+    "descrizione": "",
+    "immagine": "pesce-spada-per-cotolette.png"
+  },
+  {
+    "nome": "QUARTI DI FILONE",
+    "descrizione": "",
+    "immagine": "quarti-di-filone.png"
+  },
+  {
+    "nome": "FILETTINI DI PESCE SPADA SKIN",
+    "descrizione": "",
+    "immagine": "filettini-di-pesce-spada-skin.png"
+  },
+  {
+    "nome": "TRANCI DI II PESCE SPADA",
+    "descrizione": "",
+    "immagine": "tranci-di-ii-pesce-spada.png"
+  },
+  {
+    "nome": "PESCE SPADA SPANCIATO",
+    "descrizione": "",
+    "immagine": "pesce-spada-spanciato.png"
+  },
+  {
+    "nome": "INSALATA DI MARE",
+    "descrizione": "",
+    "immagine": "insalata-di-mare.png"
+  },
+  {
+    "nome": "RAVIOLI RICOTTA E SPINACI AL POMODORO",
+    "descrizione": "",
+    "immagine": "ravioli-ricotta-e-spinaci-al-pomodoro.png"
+  },
+  {
+    "nome": "TAGLIOLINI ALLO SCOGLIO",
+    "descrizione": "",
+    "immagine": "tagliolini-allo-scoglio.png"
+  },
+  {
+    "nome": "TAGLIATELLE AI FUNGHI PORCINI",
+    "descrizione": "",
+    "immagine": "tagliatelle-ai-funghi-porcini.png"
+  },
+  {
+    "nome": "GNOCCHI ALLA SORRENTINA",
+    "descrizione": "",
+    "immagine": "gnocchi-alla-sorrentina.png"
+  },
+  {
+    "nome": "TONNARELLI CACIO E PEPE",
+    "descrizione": "",
+    "immagine": "tonnarelli-cacio-e-pepe.png"
+  },
+  {
+    "nome": "LASAGNA ALLA BOLOGNESE",
+    "descrizione": "",
+    "immagine": "lasagna-alla-bolognese.png"
+  },
+  {
+    "nome": "RISOTTO DI MARE",
+    "descrizione": "",
+    "immagine": "risotto-di-mare.png"
+  },
+  {
+    "nome": "SPAGHETTI ALLE VONGOLE",
+    "descrizione": "",
+    "immagine": "spaghetti-alle-vongole.png"
+  },
+  {
+    "nome": "PENNETTE SALMONE E GAMBERI",
+    "descrizione": "",
+    "immagine": "pennette-salmone-e-gamberi.png"
+  },
+  {
+    "nome": "SUGHETTO AI CROSTACEI",
+    "descrizione": "",
+    "immagine": "sughetto-ai-crostacei.png"
+  },
+  {
+    "nome": "SUGHETTO PRONTO AI FRUTTI DI MARE",
+    "descrizione": "",
+    "immagine": "sughetto-pronto-ai-frutti-di-mare.png"
+  },
+  {
+    "nome": "SUGHETTO PRONTO ALLE COZZE",
+    "descrizione": "",
+    "immagine": "sughetto-pronto-alle-cozze.png"
+  },
+  {
+    "nome": "SUGHETTO PRONTO ALLO SCOGLIO CON POMODORO",
+    "descrizione": "",
+    "immagine": "sughetto-pronto-allo-scoglio-con-pomodoro.png"
+  },
+  {
+    "nome": "SUGHETTO PRONTO ALLE COZZE E PATATE",
+    "descrizione": "",
+    "immagine": "sughetto-pronto-alle-cozze-e-patate.png"
+  },
+  {
+    "nome": "AGNOLOTTI BIANCONERI ALL’ARAGOSTA",
+    "descrizione": "",
+    "immagine": "agnolotti-bianconeri-all’aragosta.png"
+  },
+  {
+    "nome": "RAVIOLI RICOTTA E SPINACI",
+    "descrizione": "",
+    "immagine": "ravioli-ricotta-e-spinaci.png"
+  },
+  {
+    "nome": "FIORI AL SAPORE DI MARE",
+    "descrizione": "",
+    "immagine": "fiori-al-sapore-di-mare.png"
+  },
+  {
+    "nome": "RAVIOLI ROSA AL SALMONE",
+    "descrizione": "",
+    "immagine": "ravioli-rosa-al-salmone.png"
+  },
+  {
+    "nome": "PANZEROTTI FUNGHI PORCINI",
+    "descrizione": "",
+    "immagine": "panzerotti-funghi-porcini.png"
+  },
+  {
+    "nome": "TORTELLI ALLA CERNIA",
+    "descrizione": "",
+    "immagine": "tortelli-alla-cernia.png"
+  },
+  {
+    "nome": "ANELLI ALLA ROMANA",
+    "descrizione": "",
+    "immagine": "anelli-alla-romana.png"
+  },
+  {
+    "nome": "ARROSTICINI DI TOTANO",
+    "descrizione": "",
+    "immagine": "arrosticini-di-totano.png"
+  },
+  {
+    "nome": "ANELLI E CIUFFI DI CALAMARO PANATI E FRITTI",
+    "descrizione": "",
+    "immagine": "anelli-e-ciuffi-di-calamaro-panati-e-fritti.png"
+  },
+  {
+    "nome": "BACCALÀ PASTELLATO",
+    "descrizione": "",
+    "immagine": "baccalà-pastellato.png"
+  },
+  {
+    "nome": "ARANCINETTI MISTO MARE",
+    "descrizione": "",
+    "immagine": "arancinetti-misto-mare.png"
+  },
+  {
+    "nome": "BASTONCINI DI MERLUZZO",
+    "descrizione": "",
+    "immagine": "bastoncini-di-merluzzo.png"
+  },
+  {
+    "nome": "CHELE DI GRANCHIO PANATE",
+    "descrizione": "",
+    "immagine": "chele-di-granchio-panate.png"
+  },
+  {
+    "nome": "FILETTI NORDMEER",
+    "descrizione": "",
+    "immagine": "filetti-nordmeer.png"
+  },
+  {
+    "nome": "CODE DI GAMBERONE PANATO",
+    "descrizione": "",
+    "immagine": "code-di-gamberone-panato.png"
+  },
+  {
+    "nome": "CROCCOLONE DI MERLUZZO CON SPINACI E MOZZARELLA",
+    "descrizione": "",
+    "immagine": "croccolone-di-merluzzo-con-spinaci-e-mozzarella.png"
+  },
+  {
+    "nome": "FILETTI DI MERLUZZO PANATI",
+    "descrizione": "",
+    "immagine": "filetti-di-merluzzo-panati.png"
+  },
+  {
+    "nome": "BOCCONCINI BACCALÀ PASTELLATO",
+    "descrizione": "",
+    "immagine": "bocconcini-baccalà-pastellato.png"
+  },
+  {
+    "nome": "GAMBERO PANATO AL PANKO",
+    "descrizione": "",
+    "immagine": "gambero-panato-al-panko.png"
+  },
+  {
+    "nome": "FILETTI DI SOGLIOLA PANATI AL LIMONE",
+    "descrizione": "",
+    "immagine": "filetti-di-sogliola-panati-al-limone.png"
+  },
+  {
+    "nome": "CROCCOLE DI FILETTO DI SALMONE",
+    "descrizione": "",
+    "immagine": "croccole-di-filetto-di-salmone.png"
+  },
+  {
+    "nome": "COTOLETTA DI PESCE",
+    "descrizione": "",
+    "immagine": "cotoletta-di-pesce.png"
+  },
+  {
+    "nome": "CRUNCHY FISH",
+    "descrizione": "",
+    "immagine": "crunchy-fish.png"
+  },
+  {
+    "nome": "FILETTI DI PLATESSA PANATI",
+    "descrizione": "",
+    "immagine": "filetti-di-platessa-panati.png"
+  },
+  {
+    "nome": "CROCCOLONE DI MERLUZZO CON POMODORO E MOZZARELLA",
+    "descrizione": "",
+    "immagine": "croccolone-di-merluzzo-con-pomodoro-e-mozzarella.png"
+  },
+  {
+    "nome": "FETTUCCINE DI TOTANO PANATE",
+    "descrizione": "",
+    "immagine": "fettuccine-di-totano-panate.png"
+  },
+  {
+    "nome": "FUNNY FISH",
+    "descrizione": "",
+    "immagine": "funny-fish.png"
+  },
+  {
+    "nome": "PORZIONE DI MERLUZZO PASTELLATO",
+    "descrizione": "",
+    "immagine": "porzione-di-merluzzo-pastellato.png"
+  },
+  {
+    "nome": "PORZIONE DI MERLUZZO ALLE SEGALE",
+    "descrizione": "",
+    "immagine": "porzione-di-merluzzo-alle-segale.png"
+  },
+  {
+    "nome": "ARANCINI PROSCIUTTO/ MOZZARELLA",
+    "descrizione": "",
+    "immagine": "arancini-prosciutto-mozzarella.png"
+  },
+  {
+    "nome": "ARANCINI RAGÙ",
+    "descrizione": "",
+    "immagine": "arancini-ragù.png"
+  },
+  {
+    "nome": "PIZZA MARGHERITA NUMERO UNO - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-margherita-numero-uno-italpizza.png"
+  },
+  {
+    "nome": "PIZZA MARGHERITA CON BORDO RIPIENO “LA BOMBA” - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-margherita-con-bordo-ripieno-“la-bomba”-italpizza.png"
+  },
+  {
+    "nome": "PIZZA PROSCIUTTO E FUNGHI 26*38 - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-prosciutto-e-funghi-26-38-italpizza.png"
+  },
+  {
+    "nome": "PIZZA SALSICCIA E PATATE 26*38 - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-salsiccia-e-patate-26-38-italpizza.png"
+  },
+  {
+    "nome": "PIZZA MARGHERITA 26*38 - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-margherita-26-38-italpizza.png"
+  },
+  {
+    "nome": "PIZZA WURSTEL E PATATINE 26*38 - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-wurstel-e-patatine-26-38-italpizza.png"
+  },
+  {
+    "nome": "ARANCINI PISTACCHIO/ PANCETTA",
+    "descrizione": "",
+    "immagine": "arancini-pistacchio-pancetta.png"
+  },
+  {
+    "nome": "MAMMA MIA PIZZA MARGHERITA",
+    "descrizione": "",
+    "immagine": "mamma-mia-pizza-margherita.png"
+  },
+  {
+    "nome": "PANELLE",
+    "descrizione": "",
+    "immagine": "panelle.png"
+  },
+  {
+    "nome": "TRIO CRISPY (BASTONCINI DI VERDURE BROCCOLI; MAIS, ZUCCA E CAROTE)",
+    "descrizione": "",
+    "immagine": "trio-crispy-bastoncini-di-verdure-broccoli;-mais,-zucca-e-carote.png"
+  },
+  {
+    "nome": "ARANCINI FUNGHI E SALSICCIA",
+    "descrizione": "",
+    "immagine": "arancini-funghi-e-salsiccia.png"
+  },
+  {
+    "nome": "BURGER DI VERDURE GRIGLIATE E SCAMORZA",
+    "descrizione": "",
+    "immagine": "burger-di-verdure-grigliate-e-scamorza.png"
+  },
+  {
+    "nome": "BASTONCINI DI SPINACI",
+    "descrizione": "",
+    "immagine": "bastoncini-di-spinaci.png"
+  },
+  {
+    "nome": "CROCCHETTE DI PATATE CAZZILLI",
+    "descrizione": "",
+    "immagine": "crocchette-di-patate-cazzilli.png"
+  },
+  {
+    "nome": "SOFTICROC FUNGHI E MOZZARELLA PRONTOFORNO",
+    "descrizione": "",
+    "immagine": "softicroc-funghi-e-mozzarella-prontoforno.png"
+  },
+  {
+    "nome": "SOFTICROC POMODORO E MOZZARELLA PRONTOFORNO",
+    "descrizione": "",
+    "immagine": "softicroc-pomodoro-e-mozzarella-prontoforno.png"
+  },
+  {
+    "nome": "SOFTICROC PROSCIUTTO E MOZZARELLA PRONTOFORNO",
+    "descrizione": "",
+    "immagine": "softicroc-prosciutto-e-mozzarella-prontoforno.png"
+  },
+  {
+    "nome": "SOFTICROC DA FORNO MOZZARELLA E FORMAGGIO",
+    "descrizione": "",
+    "immagine": "softicroc-da-forno-mozzarella-e-formaggio.png"
+  },
+  {
+    "nome": "BURGER DI PESCE SPADA PANATO",
+    "descrizione": "",
+    "immagine": "burger-di-pesce-spada-panato.png"
+  },
+  {
+    "nome": "CALAMARO RIPIENO",
+    "descrizione": "",
+    "immagine": "calamaro-ripieno.png"
+  },
+  {
+    "nome": "COTOLETTA DI PESCE SPADA PANATA",
+    "descrizione": "",
+    "immagine": "cotoletta-di-pesce-spada-panata.png"
+  },
+  {
+    "nome": "SARDE BECCAFICO",
+    "descrizione": "",
+    "immagine": "sarde-beccafico.png"
+  },
+  {
+    "nome": "SPIEDINI DI GAMBERO",
+    "descrizione": "",
+    "immagine": "spiedini-di-gambero.png"
+  },
+  {
+    "nome": "COZZE GRATINATE",
+    "descrizione": "",
+    "immagine": "cozze-gratinate.png"
+  },
+  {
+    "nome": "CALAMARI RIPIENI GRATINATI",
+    "descrizione": "",
+    "immagine": "calamari-ripieni-gratinati.png"
+  },
+  {
+    "nome": "CONDIMENTO PESCE SPADA POMODORO E MELANZANE",
+    "descrizione": "",
+    "immagine": "condimento-pesce-spada-pomodoro-e-melanzane.png"
+  },
+  {
+    "nome": "INVOLTINI DI SPATOLA AGLI AGRUMI",
+    "descrizione": "",
+    "immagine": "involtini-di-spatola-agli-agrumi.png"
+  },
+  {
+    "nome": "COZZE GRATINATE",
+    "descrizione": "",
+    "immagine": "cozze-gratinate-2.png"
+  },
+  {
+    "nome": "SPIEDINI DI SALMONE E ZUCCHINE CON GRANELLA DI PISTACCHII",
+    "descrizione": "",
+    "immagine": "spiedini-di-salmone-e-zucchine-con-granella-di-pistacchii.png"
+  },
+  {
+    "nome": "SPIEDINI DI PESCE GRATINATI",
+    "descrizione": "",
+    "immagine": "spiedini-di-pesce-gratinati.png"
+  },
+  {
+    "nome": "SPIEDINI DI MAZZANCOLLE GRATINATE",
+    "descrizione": "",
+    "immagine": "spiedini-di-mazzancolle-gratinate.png"
+  },
+  {
+    "nome": "CROCCHETTE PESCE SPADA/ MELANZANE",
+    "descrizione": "",
+    "immagine": "crocchette-pesce-spada-melanzane.png"
+  },
+  {
+    "nome": "ARANCINETTI AL NERO DI SEPPIA",
+    "descrizione": "",
+    "immagine": "arancinetti-al-nero-di-seppia.png"
+  },
+  {
+    "nome": "ARANCINETTI AL PESCE SPADA E MELANZANE",
+    "descrizione": "",
+    "immagine": "arancinetti-al-pesce-spada-e-melanzane.png"
+  },
+  {
+    "nome": "FILETTI DI ALICI DEL MEDITERRANEO GRATINATE",
+    "descrizione": "",
+    "immagine": "filetti-di-alici-del-mediterraneo-gratinate.png"
+  },
+  {
+    "nome": "BURGER DI TONNO E ZUCCHINE GRATINATI",
+    "descrizione": "",
+    "immagine": "burger-di-tonno-e-zucchine-gratinati.png"
+  },
+  {
+    "nome": "COTOLETTE DI PESCE SPADA GRATINATE",
+    "descrizione": "",
+    "immagine": "cotolette-di-pesce-spada-gratinate.png"
+  },
+  {
+    "nome": "INVOLTINI DI PESCE SPADA GRATINATI",
+    "descrizione": "",
+    "immagine": "involtini-di-pesce-spada-gratinati.png"
+  },
+  {
+    "nome": "INVOLTINI DI PESCE SPADA AL PESTO DI PISTACCHIO",
+    "descrizione": "",
+    "immagine": "involtini-di-pesce-spada-al-pesto-di-pistacchio.png"
+  },
+  {
+    "nome": "SPIEDINI DI PESCE",
+    "descrizione": "",
+    "immagine": "spiedini-di-pesce.png"
+  },
+  {
+    "nome": "INVOLTINI PESCE SPADA AGRUMI E PISTACCHIO",
+    "descrizione": "",
+    "immagine": "involtini-pesce-spada-agrumi-e-pistacchio.png"
+  },
+  {
+    "nome": "SPIEDINI DI PESCE SPADA",
+    "descrizione": "",
+    "immagine": "spiedini-di-pesce-spada.png"
+  },
+  {
+    "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
+    "descrizione": "",
+    "immagine": "arancinetti-gamberi-e-pistacchio.png"
+  },
+  {
+    "nome": "BURGER DI MERLUZZO ALLA PIZZAIOLA",
+    "descrizione": "",
+    "immagine": "burger-di-merluzzo-alla-pizzaiola.png"
+  },
+  {
+    "nome": "CROCCHÈ FARCITO SALSICCIA E FRIARELLI",
+    "descrizione": "",
+    "immagine": "crocchè-farcito-salsiccia-e-friarelli.png"
+  },
+  {
+    "nome": "FIORI DI ZUCCA CON PROSCIUTTO E MOZZARELLA",
+    "descrizione": "",
+    "immagine": "fiori-di-zucca-con-prosciutto-e-mozzarella.png"
+  },
+  {
+    "nome": "FRITTELLE DI GUSTO GRANCHIO",
+    "descrizione": "",
+    "immagine": "frittelle-di-gusto-granchio.png"
+  },
+  {
+    "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
+    "descrizione": "",
+    "immagine": "arancinetti-gamberi-e-pistacchio-2.png"
+  },
+  {
+    "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
+    "descrizione": "",
+    "immagine": "arancinetti-gamberi-e-pistacchio-3.png"
+  },
+  {
+    "nome": "ARANCINETTI PIÙ GUSTI",
+    "descrizione": "",
+    "immagine": "arancinetti-più-gusti.png"
+  },
+  {
+    "nome": "FIORI DI ZUCCA ROBIOLA E GAMBERETTI",
+    "descrizione": "",
+    "immagine": "fiori-di-zucca-robiola-e-gamberetti.png"
+  },
+  {
+    "nome": "FIORI DI ZUCCA CON RICOTTA E PROVOLA",
+    "descrizione": "",
+    "immagine": "fiori-di-zucca-con-ricotta-e-provola.png"
+  },
+  {
+    "nome": "ARANCINETTI RAGÙ",
+    "descrizione": "",
+    "immagine": "arancinetti-ragù.png"
+  },
+  {
+    "nome": "FIORI DI ZUCCA CON ALICI E MOZZARELLA",
+    "descrizione": "",
+    "immagine": "fiori-di-zucca-con-alici-e-mozzarella.png"
+  },
+  {
+    "nome": "FRITTELLE GUSTO ALGHE",
+    "descrizione": "",
+    "immagine": "frittelle-gusto-alghe.png"
+  },
+  {
+    "nome": "FRITTELLE GUSTO DI SALMONE",
+    "descrizione": "",
+    "immagine": "frittelle-gusto-di-salmone.png"
+  },
+  {
+    "nome": "MOZZARELLA IN CARROZZA MIGNON",
+    "descrizione": "",
+    "immagine": "mozzarella-in-carrozza-mignon.png"
+  },
+  {
+    "nome": "MOZZARELLA STICK",
+    "descrizione": "",
+    "immagine": "mozzarella-stick.png"
+  },
+  {
+    "nome": "SPECK E PROVOLA IN CARROZZA",
+    "descrizione": "",
+    "immagine": "speck-e-provola-in-carrozza.png"
+  },
+  {
+    "nome": "SALATINI MICRO AL BURRO 6 GUSTI",
+    "descrizione": "",
+    "immagine": "salatini-micro-al-burro-6-gusti.png"
+  },
+  {
+    "nome": "SFOGLIATELLA RICCIA E FROLLA",
+    "descrizione": "",
+    "immagine": "sfogliatella-riccia-e-frolla.png"
+  },
+  {
+    "nome": "TRAMEZZINO SPECK E PROVOLA PANATO",
+    "descrizione": "",
+    "immagine": "tramezzino-speck-e-provola-panato.png"
+  },
+  {
+    "nome": "TRAMEZZINO MORTADELLA E STRACCIATELLA",
+    "descrizione": "",
+    "immagine": "tramezzino-mortadella-e-stracciatella.png"
+  },
+  {
+    "nome": "PANINO LA ROMANACCIA",
+    "descrizione": "",
+    "immagine": "panino-la-romanaccia.png"
+  },
+  {
+    "nome": "FRITTELLE GUSTO GAMBERO E ZUCCHINE",
+    "descrizione": "",
+    "immagine": "frittelle-gusto-gambero-e-zucchine.png"
+  },
+  {
+    "nome": "CROCCHÈ NAPOLETANO SUPER CRUNCHY CON SALAME",
+    "descrizione": "",
+    "immagine": "crocchè-napoletano-super-crunchy-con-salame.png"
+  },
+  {
+    "nome": "MOZZARELLINE PANATE PRONTOFORNO",
+    "descrizione": "",
+    "immagine": "mozzarelline-panate-prontoforno.png"
+  },
+  {
+    "nome": "FRITTO MISTO DELL’ORTO",
+    "descrizione": "",
+    "immagine": "fritto-misto-dell’orto.png"
+  },
+  {
+    "nome": "MISTO FRITTO (CROCCHÈ MOZZARELLA-ARANCINO RAGÙ- FRITTATINA SPAGHETTI-DELIZIE 4 FORMAGGI-SCAGLIOZZO DI POLENTA)",
+    "descrizione": "",
+    "immagine": "misto-fritto-crocchè-mozzarella-arancino-ragù-frittatina-spaghetti-delizie-4-for.png"
+  },
+  {
+    "nome": "OLIVE ASCOLANA",
+    "descrizione": "",
+    "immagine": "olive-ascolana.png"
+  },
+  {
+    "nome": "RUSTICI MIGNON ASSORTITI 7 GUSTI",
+    "descrizione": "",
+    "immagine": "rustici-mignon-assortiti-7-gusti.png"
+  },
+  {
+    "nome": "PANZEROTTINI PIZZAIOLA",
+    "descrizione": "",
+    "immagine": "panzerottini-pizzaiola.png"
+  },
+  {
+    "nome": "INVOLTINI DI PRIMAVERA",
+    "descrizione": "",
+    "immagine": "involtini-di-primavera.png"
+  },
+  {
+    "nome": "RAVIOLI MAIALE E VERZA",
+    "descrizione": "",
+    "immagine": "ravioli-maiale-e-verza.png"
+  },
+  {
+    "nome": "INVOLTINI PRIMAVERA VEGANI",
+    "descrizione": "",
+    "immagine": "involtini-primavera-vegani.png"
+  },
+  {
+    "nome": "TEMPURA DI MAZZANCOLLE",
+    "descrizione": "",
+    "immagine": "tempura-di-mazzancolle.png"
+  },
+  {
+    "nome": "RAVIOLI AI GAMBERI",
+    "descrizione": "",
+    "immagine": "ravioli-ai-gamberi.png"
+  },
+  {
+    "nome": "SUSHI",
+    "descrizione": "",
+    "immagine": "sushi.png"
+  },
+  {
+    "nome": "PANE ORIENTALE",
+    "descrizione": "",
+    "immagine": "pane-orientale.png"
+  },
+  {
+    "nome": "PANE CONIGLIO",
+    "descrizione": "",
+    "immagine": "pane-coniglio.png"
+  },
+  {
+    "nome": "FILETTO DI BACCALÀ PASTELLATO SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "filetto-di-baccalà-pastellato-senza-glutine.png"
+  },
+  {
+    "nome": "BASE PIZZA SENZA GLUTINE GRECI",
+    "descrizione": "",
+    "immagine": "base-pizza-senza-glutine-greci.png"
+  },
+  {
+    "nome": "FIORI DI ZUCCA SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "fiori-di-zucca-senza-glutine.png"
+  },
+  {
+    "nome": "CROCCHETTE DI PATATE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "crocchette-di-patate-senza-glutine.png"
+  },
+  {
+    "nome": "SUPPLI’ DI RISO SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "suppli’-di-riso-senza-glutine.png"
+  },
+  {
+    "nome": "MOZZARELLINE PANATE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "mozzarelline-panate-senza-glutine.png"
+  },
+  {
+    "nome": "PIZZA MARGHERITA SENZA GLUTINE E SENZA LATTOSIO - ITALPIZZA",
+    "descrizione": "",
+    "immagine": "pizza-margherita-senza-glutine-e-senza-lattosio-italpizza.png"
+  },
+  {
+    "nome": "BRANZINO GRIGLIATO CON VERDURE GRIGLIATE",
+    "descrizione": "",
+    "immagine": "branzino-grigliato-con-verdure-grigliate.png"
+  },
+  {
+    "nome": "CIABBATTA DI PANE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "ciabbatta-di-pane-senza-glutine.png"
+  },
+  {
+    "nome": "CHEESECAKE LAMPONE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "cheesecake-lampone-senza-glutine.png"
+  },
+  {
+    "nome": "TIRAMISÙ SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "tiramisù-senza-glutine.png"
+  },
+  {
+    "nome": "TORTA SACHER SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "torta-sacher-senza-glutine.png"
+  },
+  {
+    "nome": "CROISSANT SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "croissant-senza-glutine.png"
+  },
+  {
+    "nome": "MUFFIN SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "muffin-senza-glutine.png"
+  },
+  {
+    "nome": "AGLIO CUBETTI ASTUCCIO PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "aglio-cubetti-astuccio-passione-verde.png"
+  },
+  {
+    "nome": "CAROTINE BABY PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "carotine-baby-passione-verde.png"
+  },
+  {
+    "nome": "BASILICO TRITATO ASTUCCIO PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "basilico-tritato-astuccio-passione-verde.png"
+  },
+  {
+    "nome": "CARCIOFI CUORE PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "carciofi-cuore-passione-verde.png"
+  },
+  {
+    "nome": "CIPOLLA A CUBETTI ASTUCCIO PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "cipolla-a-cubetti-astuccio-passione-verde.png"
+  },
+  {
+    "nome": "BIETA CUBETTI PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "bieta-cubetti-passione-verde.png"
+  },
+  {
+    "nome": "CARCIOFI SPICCHI",
+    "descrizione": "",
+    "immagine": "carciofi-spicchi.png"
+  },
+  {
+    "nome": "FAGIOLI BORLOTTI PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "fagioli-borlotti-passione-verde.png"
+  },
+  {
+    "nome": "ZUCCA A CUBETTI",
+    "descrizione": "",
+    "immagine": "zucca-a-cubetti.png"
+  },
+  {
+    "nome": "FAVE PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "fave-passione-verde.png"
+  },
+  {
+    "nome": "MINESTRONE 15 VERDURE PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "minestrone-15-verdure-passione-verde.png"
+  },
+  {
+    "nome": "MISTO PER SOFFRITTO ASTUCCIO PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "misto-per-soffritto-astuccio-passione-verde.png"
+  },
+  {
+    "nome": "FRIARIELLI FOGLIA PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "friarielli-foglia-passione-verde.png"
+  },
+  {
+    "nome": "PREZZEMOLO TRITATO ASTUCCIO PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "prezzemolo-tritato-astuccio-passione-verde.png"
+  },
+  {
+    "nome": "PEPERONI GRIGLIATI SOLE DI SICILIA",
+    "descrizione": "",
+    "immagine": "peperoni-grigliati-sole-di-sicilia.png"
+  },
+  {
+    "nome": "TRIS DI VERDURE GRIGLIATE MEDITERRANEE PASSIONE VERDE",
+    "descrizione": "",
+    "immagine": "tris-di-verdure-grigliate-mediterranee-passione-verde.png"
+  },
+  {
+    "nome": "ZUCCHINE GRIGLIATE SOLE DI SICILIA",
+    "descrizione": "",
+    "immagine": "zucchine-grigliate-sole-di-sicilia.png"
+  },
+  {
+    "nome": "MELANZANE GRIGLIATE SOLE DI SICILIA",
+    "descrizione": "",
+    "immagine": "melanzane-grigliate-sole-di-sicilia.png"
+  },
+  {
+    "nome": "MINESTRONE LIGHT GUSTO E LINEA",
+    "descrizione": "",
+    "immagine": "minestrone-light-gusto-e-linea.png"
+  },
+  {
+    "nome": "AGLIO A SPICCHI",
+    "descrizione": "",
+    "immagine": "aglio-a-spicchi.png"
+  },
+  {
+    "nome": "CIPOLLA A FETTE",
+    "descrizione": "",
+    "immagine": "cipolla-a-fette.png"
+  },
+  {
+    "nome": "CARCIOFI A SPICCHI",
+    "descrizione": "",
+    "immagine": "carciofi-a-spicchi.png"
+  },
+  {
+    "nome": "MISTO PER SOFFRITTO",
+    "descrizione": "",
+    "immagine": "misto-per-soffritto.png"
+  },
+  {
+    "nome": "PISELLI FINI",
+    "descrizione": "",
+    "immagine": "piselli-fini.png"
+  },
+  {
+    "nome": "CAROTINE BABY",
+    "descrizione": "",
+    "immagine": "carotine-baby.png"
+  },
+  {
+    "nome": "MISTO CONTORNO PISELLI FINISSIMI E CAROTE",
+    "descrizione": "",
+    "immagine": "misto-contorno-piselli-finissimi-e-carote.png"
+  },
+  {
+    "nome": "PISELLI FINISSIMI",
+    "descrizione": "",
+    "immagine": "piselli-finissimi.png"
+  },
+  {
+    "nome": "ZUCCHINE A DISCO",
+    "descrizione": "",
+    "immagine": "zucchine-a-disco.png"
+  },
+  {
+    "nome": "MISTO PREZZEMOLO E AGLIO",
+    "descrizione": "",
+    "immagine": "misto-prezzemolo-e-aglio.png"
+  },
+  {
+    "nome": "BROCCOLI ROSETTE",
+    "descrizione": "",
+    "immagine": "broccoli-rosette.png"
+  },
+  {
+    "nome": "CIPOLLA A CUBETTI",
+    "descrizione": "",
+    "immagine": "cipolla-a-cubetti.png"
+  },
+  {
+    "nome": "CAVOLFIORE ROSETTE",
+    "descrizione": "",
+    "immagine": "cavolfiore-rosette.png"
+  },
+  {
+    "nome": "CAROTE A RONDELLE",
+    "descrizione": "",
+    "immagine": "carote-a-rondelle.png"
+  },
+  {
+    "nome": "MINESTRONE",
+    "descrizione": "",
+    "immagine": "minestrone.png"
+  },
+  {
+    "nome": "FAGIOLINI FINI",
+    "descrizione": "",
+    "immagine": "fagiolini-fini.png"
+  },
+  {
+    "nome": "INSALATA RUSSA",
+    "descrizione": "",
+    "immagine": "insalata-russa.png"
+  },
+  {
+    "nome": "SPINACI A CUBETTO",
+    "descrizione": "",
+    "immagine": "spinaci-a-cubetto.png"
+  },
+  {
+    "nome": "MISTO CONTORNO MIX DI BROCCOLI",
+    "descrizione": "",
+    "immagine": "misto-contorno-mix-di-broccoli.png"
+  },
+  {
+    "nome": "MISTO CONTORNO VERDURE GRIGLIATE CON PATATE",
+    "descrizione": "",
+    "immagine": "misto-contorno-verdure-grigliate-con-patate.png"
+  },
+  {
+    "nome": "FUNGHI PORCINI CUBETTI DA 1KG",
+    "descrizione": "",
+    "immagine": "funghi-porcini-cubetti-da-1kg.png"
+  },
+  {
+    "nome": "FUNGHI CHAMPIGNON",
+    "descrizione": "",
+    "immagine": "funghi-champignon.png"
+  },
+  {
+    "nome": "FUNGHI PORCINI INTERI",
+    "descrizione": "",
+    "immagine": "funghi-porcini-interi.png"
+  },
+  {
+    "nome": "FRAGOLINE",
+    "descrizione": "",
+    "immagine": "fragoline.png"
+  },
+  {
+    "nome": "ERBA CIPOLLINA",
+    "descrizione": "",
+    "immagine": "erba-cipollina.png"
+  },
+  {
+    "nome": "MISTO CONTORNO VERDURE GRIGLIATE",
+    "descrizione": "",
+    "immagine": "misto-contorno-verdure-grigliate.png"
+  },
+  {
+    "nome": "MISTO PREZZEMOLO E AGLIO",
+    "descrizione": "",
+    "immagine": "misto-prezzemolo-e-aglio-2.png"
+  },
+  {
+    "nome": "FRAGOLE INTERE",
+    "descrizione": "",
+    "immagine": "fragole-intere.png"
+  },
+  {
+    "nome": "FUNGHI MISTO BOSCO CON PORCINI",
+    "descrizione": "",
+    "immagine": "funghi-misto-bosco-con-porcini.png"
+  },
+  {
+    "nome": "FUNGHI PORCINI INTERI DA 1KG",
+    "descrizione": "",
+    "immagine": "funghi-porcini-interi-da-1kg.png"
+  },
+  {
+    "nome": "FRUTTI DI BOSCO",
+    "descrizione": "",
+    "immagine": "frutti-di-bosco.png"
+  },
+  {
+    "nome": "FUNGHI PORCINI CUBETTI",
+    "descrizione": "",
+    "immagine": "funghi-porcini-cubetti.png"
+  },
+  {
+    "nome": "MIRTILLI",
+    "descrizione": "",
+    "immagine": "mirtilli.png"
+  },
+  {
+    "nome": "ANELLI DI CIPOLLA PANATI",
+    "descrizione": "",
+    "immagine": "anelli-di-cipolla-panati.png"
+  },
+  {
+    "nome": "DUCHESSES",
+    "descrizione": "",
+    "immagine": "duchesses.png"
+  },
+  {
+    "nome": "PATATE SWEET",
+    "descrizione": "",
+    "immagine": "patate-sweet.png"
+  },
+  {
+    "nome": "PATATE STICK PREFRITTE 10x10mm",
+    "descrizione": "",
+    "immagine": "patate-stick-prefritte-10x10mm.png"
+  },
+  {
+    "nome": "PATATE WEDGES SKIN ON",
+    "descrizione": "",
+    "immagine": "patate-wedges-skin-on.png"
+  },
+  {
+    "nome": "PATATE CRISPY SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "patate-crispy-senza-glutine.png"
+  },
+  {
+    "nome": "PATATE NOISETTES",
+    "descrizione": "",
+    "immagine": "patate-noisettes.png"
+  },
+  {
+    "nome": "PATATE CRISPY STEAKHOUSE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "patate-crispy-steakhouse-senza-glutine.png"
+  },
+  {
+    "nome": "PATATE STICK PREFRITTE 12x12mm",
+    "descrizione": "",
+    "immagine": "patate-stick-prefritte-12x12mm.png"
+  },
+  {
+    "nome": "PATATE CRINCKLE",
+    "descrizione": "",
+    "immagine": "patate-crinckle.png"
+  },
+  {
+    "nome": "PATATE ROSTIES CON CIPOLLA",
+    "descrizione": "",
+    "immagine": "patate-rosties-con-cipolla.png"
+  },
+  {
+    "nome": "PATATE TWISTER",
+    "descrizione": "",
+    "immagine": "patate-twister.png"
+  },
+  {
+    "nome": "PATATE ALPHABYTES",
+    "descrizione": "",
+    "immagine": "patate-alphabytes.png"
+  },
+  {
+    "nome": "CROCCHETTE DI PATATE PREFRITTE",
+    "descrizione": "",
+    "immagine": "crocchette-di-patate-prefritte.png"
+  },
+  {
+    "nome": "PATATE HOT&SPICY WEDGES",
+    "descrizione": "",
+    "immagine": "patate-hot-spicy-wedges.png"
+  },
+  {
+    "nome": "PATATE SLICES",
+    "descrizione": "",
+    "immagine": "patate-slices.png"
+  },
+  {
+    "nome": "PATATE SCOOPS DIPPERS",
+    "descrizione": "",
+    "immagine": "patate-scoops-dippers.png"
+  },
+  {
+    "nome": "PATATE STEAKHOUSE PREFRITTE 18x20mm",
+    "descrizione": "",
+    "immagine": "patate-steakhouse-prefritte-18x20mm.png"
+  },
+  {
+    "nome": "CORNETTI CEREALI E MIRTILLI",
+    "descrizione": "",
+    "immagine": "cornetti-cereali-e-mirtilli.png"
+  },
+  {
+    "nome": "CORNETTO ISCHIA DOPPIO IMPASTO",
+    "descrizione": "",
+    "immagine": "cornetto-ischia-doppio-impasto.png"
+  },
+  {
+    "nome": "CORNETTO CURVO BICOLORE FRUTTI DI BOSCO",
+    "descrizione": "",
+    "immagine": "cornetto-curvo-bicolore-frutti-di-bosco.png"
+  },
+  {
+    "nome": "CORNETTO DIRITTO CEREALI E MIELE",
+    "descrizione": "",
+    "immagine": "cornetto-diritto-cereali-e-miele.png"
+  },
+  {
+    "nome": "GRAN CORNETTO CONFETTURA ALBICOCCA",
+    "descrizione": "",
+    "immagine": "gran-cornetto-confettura-albicocca.png"
+  },
+  {
+    "nome": "CORNETTI PISTACCHIO",
+    "descrizione": "",
+    "immagine": "cornetti-pistacchio.png"
+  },
+  {
+    "nome": "GRAN CORNETTO FARCITURA CREMA CHANTILLY",
+    "descrizione": "",
+    "immagine": "gran-cornetto-farcitura-crema-chantilly.png"
+  },
+  {
+    "nome": "GRAN CORNETTO FARCITURA NOCCIOLA",
+    "descrizione": "",
+    "immagine": "gran-cornetto-farcitura-nocciola.png"
+  },
+  {
+    "nome": "CORNETTO CURVO BICOLORE FRUTTI DI BOSCO",
+    "descrizione": "",
+    "immagine": "cornetto-curvo-bicolore-frutti-di-bosco-2.png"
+  },
+  {
+    "nome": "CORNETTO NUTELLA FERRERO",
+    "descrizione": "",
+    "immagine": "cornetto-nutella-ferrero.png"
+  },
+  {
+    "nome": "CORNETTO VEGANO AI MIRTILLI",
+    "descrizione": "",
+    "immagine": "cornetto-vegano-ai-mirtilli.png"
+  },
+  {
+    "nome": "TRECCIA NOCI PECAN",
+    "descrizione": "",
+    "immagine": "treccia-noci-pecan.png"
+  },
+  {
+    "nome": "FAGOTTO AI 3 CIOCCOLATI",
+    "descrizione": "",
+    "immagine": "fagotto-ai-3-cioccolati.png"
+  },
+  {
+    "nome": "CORNETTO INTEGRALE CON ARANCIA",
+    "descrizione": "",
+    "immagine": "cornetto-integrale-con-arancia.png"
+  },
+  {
+    "nome": "GRAN CORNETTO MARMELLATA ALBICOCCA",
+    "descrizione": "",
+    "immagine": "gran-cornetto-marmellata-albicocca.png"
+  },
+  {
+    "nome": "MINI PANZEROTTO RICOTTA CON GIOCCE DI CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "mini-panzerotto-ricotta-con-giocce-di-cioccolato.png"
+  },
+  {
+    "nome": "MUFFIN NUTELLA",
+    "descrizione": "",
+    "immagine": "muffin-nutella.png"
+  },
+  {
+    "nome": "DONUTS ZEBRA",
+    "descrizione": "",
+    "immagine": "donuts-zebra.png"
+  },
+  {
+    "nome": "DONUTS MIX",
+    "descrizione": "",
+    "immagine": "donuts-mix.png"
+  },
+  {
+    "nome": "ROTOLOTTO NOCCIOLA (FLAUTO)",
+    "descrizione": "",
+    "immagine": "rotolotto-nocciola-flauto.png"
+  },
+  {
+    "nome": "MINI PASTICCIOTTO CREMA/ AMARENA",
+    "descrizione": "",
+    "immagine": "mini-pasticciotto-crema-amarena.png"
+  },
+  {
+    "nome": "TIRAMISÙ QUADROTTO",
+    "descrizione": "",
+    "immagine": "tiramisù-quadrotto.png"
+  },
+  {
+    "nome": "PROFITEROLES CACAO",
+    "descrizione": "",
+    "immagine": "profiteroles-cacao.png"
+  },
+  {
+    "nome": "PANNACOTTA CARAMELLO",
+    "descrizione": "",
+    "immagine": "pannacotta-caramello.png"
+  },
+  {
+    "nome": "TARTUFO BIANCO",
+    "descrizione": "",
+    "immagine": "tartufo-bianco.png"
+  },
+  {
+    "nome": "TARTUFO NERO",
+    "descrizione": "",
+    "immagine": "tartufo-nero.png"
+  },
+  {
+    "nome": "TARTUFO PISTACCHIO",
+    "descrizione": "",
+    "immagine": "tartufo-pistacchio.png"
+  },
+  {
+    "nome": "SOUFFLÈ AL CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "soufflè-al-cioccolato.png"
+  },
+  {
+    "nome": "SOUFFLÈ AL CIOCCOLATO BIANCO",
+    "descrizione": "",
+    "immagine": "soufflè-al-cioccolato-bianco.png"
+  },
+  {
+    "nome": "RICOPERTO",
+    "descrizione": "",
+    "immagine": "ricoperto.png"
+  },
+  {
+    "nome": "SOUFFLÈ AL PISTACCHIO",
+    "descrizione": "",
+    "immagine": "soufflè-al-pistacchio.png"
+  },
+  {
+    "nome": "BISCOTTO PANNA/CACAO",
+    "descrizione": "",
+    "immagine": "biscotto-panna-cacao.png"
+  },
+  {
+    "nome": "COPPA PANNA/CACAO",
+    "descrizione": "",
+    "immagine": "coppa-panna-cacao.png"
+  },
+  {
+    "nome": "CONO PANNA/CACAO",
+    "descrizione": "",
+    "immagine": "cono-panna-cacao.png"
+  },
+  {
+    "nome": "MINI MIX",
+    "descrizione": "",
+    "immagine": "mini-mix.png"
+  },
+  {
+    "nome": "FRAGOLOSO",
+    "descrizione": "",
+    "immagine": "fragoloso.png"
+  },
+  {
+    "nome": "GHIACCIOLO",
+    "descrizione": "",
+    "immagine": "ghiacciolo.png"
+  },
+  {
+    "nome": "MINISTECCO",
+    "descrizione": "",
+    "immagine": "ministecco.png"
+  },
+  {
+    "nome": "TORTA CASSATA",
+    "descrizione": "",
+    "immagine": "torta-cassata.png"
+  },
+  {
+    "nome": "SORBETTO LIMONE VASCHETTA DA 1 KG",
+    "descrizione": "",
+    "immagine": "sorbetto-limone-vaschetta-da-1-kg.png"
+  },
+  {
+    "nome": "TRONCHETTO ROSCÈ SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "tronchetto-roscè-senza-glutine.png"
+  },
+  {
+    "nome": "TRONCHETTO BACIONE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "tronchetto-bacione-senza-glutine.png"
+  },
+  {
+    "nome": "TRONCHETTO PARFAIT MANDORLE SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "tronchetto-parfait-mandorle-senza-glutine.png"
+  },
+  {
+    "nome": "TRONCHETTO SETTEVELI PISTACCHIO SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "tronchetto-setteveli-pistacchio-senza-glutine.png"
+  },
+  {
+    "nome": "TORTA SETTEVELI CLASSICA SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "torta-setteveli-classica-senza-glutine.png"
+  },
+  {
+    "nome": "TORTA GRAN NOCCIOLATO",
+    "descrizione": "",
+    "immagine": "torta-gran-nocciolato.png"
+  },
+  {
+    "nome": "TORTA NOCCIOLA E CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "torta-nocciola-e-cioccolato.png"
+  },
+  {
+    "nome": "TORTA PANNA E FRAGOLE",
+    "descrizione": "",
+    "immagine": "torta-panna-e-fragole.png"
+  },
+  {
+    "nome": "TORTA PISTACCHIO E NOCCIOLA",
+    "descrizione": "",
+    "immagine": "torta-pistacchio-e-nocciola.png"
+  },
+  {
+    "nome": "TORTA ROSCÈ 1KG",
+    "descrizione": "",
+    "immagine": "torta-roscè-1kg.png"
+  },
+  {
+    "nome": "TORTA PANNA E NOCCIOLA SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "torta-panna-e-nocciola-senza-glutine.png"
+  },
+  {
+    "nome": "TORTA SETTEVELI AL PISTACCHIO SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "torta-setteveli-al-pistacchio-senza-glutine.png"
+  },
+  {
+    "nome": "TRONCHETTO PANNA E NOCCIOLA SENZA GLUTINE",
+    "descrizione": "",
+    "immagine": "tronchetto-panna-e-nocciola-senza-glutine.png"
+  },
+  {
+    "nome": "CIOCCOLATO - STRACCIATELLA - CAFFÈ",
+    "descrizione": "",
+    "immagine": "cioccolato-stracciatella-caffè.png"
+  },
+  {
+    "nome": "FRAGOLA - LIMONE",
+    "descrizione": "",
+    "immagine": "fragola-limone.png"
+  },
+  {
+    "nome": "BISCOTTO - PANNA - CACAO",
+    "descrizione": "",
+    "immagine": "biscotto-panna-cacao-2.png"
+  },
+  {
+    "nome": "CONO - PANNA",
+    "descrizione": "",
+    "immagine": "cono-panna.png"
+  },
+  {
+    "nome": "CONO - PANNA - CACAO",
+    "descrizione": "",
+    "immagine": "cono-panna-cacao-2.png"
+  },
+  {
+    "nome": "NOCCIOLA - CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "nocciola-cioccolato.png"
+  },
+  {
+    "nome": "PISTACCHIO - NOCCIOLA",
+    "descrizione": "",
+    "immagine": "pistacchio-nocciola.png"
+  },
+  {
+    "nome": "SPAGNOLA",
+    "descrizione": "",
+    "immagine": "spagnola.png"
+  },
+  {
+    "nome": "SETTEDELIZIE AMOROSA",
+    "descrizione": "",
+    "immagine": "settedelizie-amorosa.png"
+  },
+  {
+    "nome": "BACIO - NOCCIOLA",
+    "descrizione": "",
+    "immagine": "bacio-nocciola.png"
+  },
+  {
+    "nome": "PESCA - FRUTTI DI BOSCO",
+    "descrizione": "",
+    "immagine": "pesca-frutti-di-bosco.png"
+  },
+  {
+    "nome": "CASSATA",
+    "descrizione": "",
+    "immagine": "cassata.png"
+  },
+  {
+    "nome": "BISCOTTO - PANNA",
+    "descrizione": "",
+    "immagine": "biscotto-panna.png"
+  },
+  {
+    "nome": "CASSATA",
+    "descrizione": "",
+    "immagine": "cassata-2.png"
+  },
+  {
+    "nome": "PISTACCHIO - CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "pistacchio-cioccolato.png"
+  },
+  {
+    "nome": "ZUPPA INGLESE",
+    "descrizione": "",
+    "immagine": "zuppa-inglese.png"
+  },
+  {
+    "nome": "CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "cioccolato.png"
+  },
+  {
+    "nome": "FRAGOLA",
+    "descrizione": "",
+    "immagine": "fragola.png"
+  },
+  {
+    "nome": "SORBETTO LIMONE",
+    "descrizione": "",
+    "immagine": "sorbetto-limone.png"
+  },
+  {
+    "nome": "STRACCIATELLA",
+    "descrizione": "",
+    "immagine": "stracciatella.png"
+  },
+  {
+    "nome": "PISTACCHIO",
+    "descrizione": "",
+    "immagine": "pistacchio.png"
+  },
+  {
+    "nome": "NOCCIOLA",
+    "descrizione": "",
+    "immagine": "nocciola.png"
+  },
+  {
+    "nome": "OREO",
+    "descrizione": "",
+    "immagine": "oreo.png"
+  },
+  {
+    "nome": "NOCCIOLA - CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "nocciola-cioccolato-2.png"
+  },
+  {
+    "nome": "GRAN NOCCIOLATO",
+    "descrizione": "",
+    "immagine": "gran-nocciolato.png"
+  },
+  {
+    "nome": "BISCOTTINO",
+    "descrizione": "",
+    "immagine": "biscottino.png"
+  },
+  {
+    "nome": "CREMA REALE",
+    "descrizione": "",
+    "immagine": "crema-reale.png"
+  },
+  {
+    "nome": "PANNA - FRAGOLA",
+    "descrizione": "",
+    "immagine": "panna-fragola.png"
+  },
+  {
+    "nome": "SPAGNOLA",
+    "descrizione": "",
+    "immagine": "spagnola-2.png"
+  },
+  {
+    "nome": "VANIGLIA",
+    "descrizione": "",
+    "immagine": "vaniglia.png"
+  },
+  {
+    "nome": "GELATO ELITE ZERO CAFFÈ",
+    "descrizione": "",
+    "immagine": "gelato-elite-zero-caffè.png"
+  },
+  {
+    "nome": "GELATO ELITE HIGH PROTEIN CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "gelato-elite-high-protein-cioccolato.png"
+  },
+  {
+    "nome": "GRANITA LIMONE",
+    "descrizione": "",
+    "immagine": "granita-limone.png"
+  },
+  {
+    "nome": "GRANITA CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "granita-cioccolato.png"
+  },
+  {
+    "nome": "GRANITA MANDORLA TOSTATA",
+    "descrizione": "",
+    "immagine": "granita-mandorla-tostata.png"
+  },
+  {
+    "nome": "GELATO ELITE ZERO CIOCCOLATO",
+    "descrizione": "",
+    "immagine": "gelato-elite-zero-cioccolato.png"
+  },
+  {
+    "nome": "GELATO ELITE ZERO FIOR DI LATTE",
+    "descrizione": "",
+    "immagine": "gelato-elite-zero-fior-di-latte.png"
+  },
+  {
+    "nome": "GELATO ELITE ZERO NOCCIOLA",
+    "descrizione": "",
+    "immagine": "gelato-elite-zero-nocciola.png"
+  },
+  {
+    "nome": "GELATO ELITE ZERO PISTACCHIO",
+    "descrizione": "",
+    "immagine": "gelato-elite-zero-pistacchio.png"
+  },
+  {
+    "nome": "GRANITA MANDORLA",
+    "descrizione": "",
+    "immagine": "granita-mandorla.png"
+  },
+  {
+    "nome": "GRANITA FRAGOLA",
+    "descrizione": "",
+    "immagine": "granita-fragola.png"
+  },
+  {
+    "nome": "GRANITA GELSI NERI",
+    "descrizione": "",
+    "immagine": "granita-gelsi-neri.png"
+  },
+  {
+    "nome": "GRANITA PISTACCHIO",
+    "descrizione": "",
+    "immagine": "granita-pistacchio.png"
+  },
+  {
+    "nome": "ANIMALETTI DI POLLO",
+    "descrizione": "",
+    "immagine": "animaletti-di-pollo.png"
+  },
+  {
+    "nome": "STICK POLLO",
+    "descrizione": "",
+    "immagine": "stick-pollo.png"
+  },
+  {
+    "nome": "BOCCONCINI DI POLLO",
+    "descrizione": "",
+    "immagine": "bocconcini-di-pollo.png"
+  },
+  {
+    "nome": "BORSETTO PROSCIUTTO E FORMAGGIO",
+    "descrizione": "",
+    "immagine": "borsetto-prosciutto-e-formaggio.png"
+  },
+  {
+    "nome": "COTOLETTE DI POLLO",
+    "descrizione": "",
+    "immagine": "cotolette-di-pollo.png"
+  },
+  {
+    "nome": "COTOLETTE DI POLLO E SPINACI",
+    "descrizione": "",
+    "immagine": "cotolette-di-pollo-e-spinaci.png"
+  },
+  {
+    "nome": "ANELLI DI POLLO E BACON",
+    "descrizione": "",
+    "immagine": "anelli-di-pollo-e-bacon.png"
+  },
+  {
+    "nome": "ALETTE DI POLLO - BARBECUE",
+    "descrizione": "",
+    "immagine": "alette-di-pollo-barbecue.png"
+  },
+  {
+    "nome": "CORDON BLEAU DI POLLO CON PROSCIUTTO E FORMAGGIO",
+    "descrizione": "",
+    "immagine": "cordon-bleau-di-pollo-con-prosciutto-e-formaggio.png"
+  },
+  {
+    "nome": "STRIPS POLLO PICCANTI",
+    "descrizione": "",
+    "immagine": "strips-pollo-piccanti.png"
+  },
+  {
+    "nome": "PEPITE POLLO PASTELLATE",
+    "descrizione": "",
+    "immagine": "pepite-pollo-pastellate.png"
+  },
+  {
+    "nome": "GHIACCIO ALIMENTARE A CUBETTI",
+    "descrizione": "",
+    "immagine": "ghiaccio-alimentare-a-cubetti.png"
+  },
+  {
+    "nome": "SUCCO DI LIMONE",
+    "descrizione": "",
+    "immagine": "succo-di-limone.png"
+  },
+  {
+    "nome": "SUCCO DI ARANCIA",
+    "descrizione": "",
+    "immagine": "succo-di-arancia.png"
+  },
+  {
+    "nome": "RICOTTA SECCHIELLO",
+    "descrizione": "",
+    "immagine": "ricotta-secchiello.png"
+  }
+]
