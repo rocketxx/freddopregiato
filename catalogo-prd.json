@@ -3,300 +3,350 @@
     "nome": "AGLIO A SPICCHI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/aglio_a_spicchi.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "AGLIO CUBETTI ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/aglio_cubetti_astuccio_passione_verde.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "AGNOLOTTI BIANCONERI ALLARAGOSTA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/agnolotti_bianconeri_allaragosta.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ALCOCKI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/alcocki.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ALETTE DI POLLO - BARBECUE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/alette_di_pollo_-_barbecue.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ALICI INTERE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/alici_intere.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI ALLA ROMANA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_alla_romana.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI DI CIPOLLA PANATI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_di_cipolla_panati.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI DI POLLO E BACON",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_di_pollo_e_bacon.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI DI TOTANO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_di_totano.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI E CIUFFI DI CALAMARO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_e_ciuffi_di_calamaro.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI E CIUFFI DI CALAMARO PANATI E FRITTI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_e_ciuffi_di_calamaro_panati_e_fritti.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANELLI E CIUFFI DI CALAMARO SENZA PELLE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/anelli_e_ciuffi_di_calamaro_senza_pelle.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ANIMALETTI DI POLLO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/animaletti_di_pollo.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI AL NERO DI SEPPIA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_al_nero_di_seppia.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI AL PESCE SPADA E MELANZANE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_al_pesce_spada_e_melanzane.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_gamberi_e_pistacchio.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI GAMBERI E PISTACCHIO 185",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_gamberi_e_pistacchio_185.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI GAMBERI E PISTACCHIO 186",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_gamberi_e_pistacchio_186.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI MISTO MARE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_misto_mare.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI PIÙ GUSTI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_più_gusti.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINETTI RAGÙ",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancinetti_ragù.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINI FUNGHI E SALSICCIA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancini_funghi_e_salsiccia.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINI PISTACCHIO/ PANCETTA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancini_pistacchio_pancetta.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINI PROSCIUTTO/ MOZZARELLA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancini_prosciutto_mozzarella.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARANCINI RAGÙ",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arancini_ragù.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ARROSTICINI DI TOTANO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/arrosticini_di_totano.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "ASTICE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/astice.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BACCALÀ PASTELLATO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/baccalà_pastellato.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BACIO - NOCCIOLA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/bacio_-_nocciola.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BASE PIZZA SENZA GLUTINE GRECI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/base_pizza_senza_glutine_greci.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BASILICO TRITATO ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/basilico_tritato_astuccio_passione_verde.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BASTONCINI DI MERLUZZO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/bastoncini_di_merluzzo.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BASTONCINI DI SPINACI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/bastoncini_di_spinaci.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BIETA CUBETTI PASSIONE VERDE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/bieta_cubetti_passione_verde.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BISCOTTINO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/biscottino.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BISCOTTO - PANNA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/biscotto_-_panna.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BISCOTTO - PANNA - CACAO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/biscotto_-_panna_-_cacao.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BISCOTTO PANNACACAO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/biscotto_pannacacao.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BOCCONCINI BACCALÀ PASTELLATO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/bocconcini_baccalà_pastellato.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BOCCONCINI DI POLLO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/bocconcini_di_pollo.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BORSETTO PROSCIUTTO E FORMAGGIO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/borsetto_prosciutto_e_formaggio.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BRANZINO EVISCERATO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/branzino_eviscerato.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BRANZINO GRIGLIATO CON VERDURE GRIGLIATE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/branzino_grigliato_con_verdure_grigliate.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BROCCOLI ROSETTE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/broccoli_rosette.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BROTULA DECAPITATA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/brotula_decapitata.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BROTULA TRANCI",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/brotula_tranci.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BURGER DI MERLUZZO ALLA PIZZAIOLA",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/burger_di_merluzzo_alla_pizzaiola.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BURGER DI PESCE SPADA PANATO",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/burger_di_pesce_spada_panato.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   },
   {
     "nome": "BURGER DI SALMONE AL NATURALE",
     "descrizione": "",
     "immagine": "https://raw.githubusercontent.com/rocketxx/freddopregiato/main/image-prd/burger_di_salmone_al_naturale.png",
-    "price": 0
+    "price": 10,
+    "code": "01"
   }
 ]

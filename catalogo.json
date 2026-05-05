@@ -3,2460 +3,2870 @@
     "nome": "ALICI INTERE",
     "descrizione": "",
     "immagine": "alici-intere.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BROTULA TRANCI",
     "descrizione": "",
     "immagine": "brotula-tranci.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI BRANZINO",
     "descrizione": "",
     "immagine": "filetti-di-branzino.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BRANZINO EVISCERATO",
     "descrizione": "",
     "immagine": "branzino-eviscerato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI ALICI",
     "descrizione": "",
     "immagine": "filetti-di-alici.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI CERNIA",
     "descrizione": "",
     "immagine": "filetti-di-cernia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI BACCALÀ NORDICO",
     "descrizione": "",
     "immagine": "filetti-di-baccalà-nordico.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI MERLUZZO",
     "descrizione": "",
     "immagine": "filetti-di-merluzzo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "LATTERINO",
     "descrizione": "",
     "immagine": "latterino.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI ORATA",
     "descrizione": "",
     "immagine": "filetti-di-orata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI PLATESSA",
     "descrizione": "",
     "immagine": "filetti-di-platessa.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PORZIONE DI BACCALÀ NORDICO",
     "descrizione": "",
     "immagine": "porzione-di-baccalà-nordico.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BROTULA DECAPITATA",
     "descrizione": "",
     "immagine": "brotula-decapitata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCE GHIACCIO",
     "descrizione": "",
     "immagine": "pesce-ghiaccio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SALMONE A TRANCI",
     "descrizione": "",
     "immagine": "salmone-a-tranci.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRANCI DI LAMPUGA",
     "descrizione": "",
     "immagine": "tranci-di-lampuga.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TONNO TRANCI",
     "descrizione": "",
     "immagine": "tonno-tranci.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTO DI RICCIOLA OCEANICA",
     "descrizione": "",
     "immagine": "filetto-di-ricciola-oceanica.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "LOINS DI MERLUZZO NORDICO (BACCALÀ)",
     "descrizione": "",
     "immagine": "loins-di-merluzzo-nordico-baccalà.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI SGOMBRO",
     "descrizione": "",
     "immagine": "filetti-di-sgombro.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI PANGASIO",
     "descrizione": "",
     "immagine": "filetti-di-pangasio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI SARDINE",
     "descrizione": "",
     "immagine": "filetti-di-sardine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI TRIGLIA",
     "descrizione": "",
     "immagine": "filetti-di-triglia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI PESCE SCIABOLA",
     "descrizione": "",
     "immagine": "filetti-di-pesce-sciabola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI SCORFANO",
     "descrizione": "",
     "immagine": "filetti-di-scorfano.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI DI MERLUZZO",
     "descrizione": "",
     "immagine": "fiori-di-merluzzo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MERLUZZO DECAPITATO",
     "descrizione": "",
     "immagine": "merluzzo-decapitato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SARDINE INTERE",
     "descrizione": "",
     "immagine": "sardine-intere.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SURIMI DI GRANCHIO",
     "descrizione": "",
     "immagine": "surimi-di-granchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI E CIUFFI DI CALAMARO",
     "descrizione": "",
     "immagine": "anelli-e-ciuffi-di-calamaro.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARI INDIA IQF (DISPONIBILI DIVERSE PEZZATURE)",
     "descrizione": "",
     "immagine": "calamari-india-iqf-disponibili-diverse-pezzature.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARI MAROCCO CONGELATI A BORDO (DISPONIBILI DIVERSE PEZZATURE)",
     "descrizione": "",
     "immagine": "calamari-marocco-congelati-a-bordo-disponibili-diverse-pezzature.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARI PULITI IQF",
     "descrizione": "",
     "immagine": "calamari-puliti-iqf.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARI PATAGONIA C4",
     "descrizione": "",
     "immagine": "calamari-patagonia-c4.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARI PULITI BLOCK",
     "descrizione": "",
     "immagine": "calamari-puliti-block.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILONE DI TONNO",
     "descrizione": "",
     "immagine": "filone-di-tonno.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARI INDIA BLOCCO INTUBATI (DISPONIBILI DIVERSE PEZZATURE)",
     "descrizione": "",
     "immagine": "calamari-india-blocco-intubati-disponibili-diverse-pezzature.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI E CIUFFI DI CALAMARO SENZA PELLE",
     "descrizione": "",
     "immagine": "anelli-e-ciuffi-di-calamaro-senza-pelle.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ORATA EVISCERATA",
     "descrizione": "",
     "immagine": "orata-eviscerata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PORZIONI DI SALMONE",
     "descrizione": "",
     "immagine": "porzioni-di-salmone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOGLIOLA",
     "descrizione": "",
     "immagine": "sogliola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BURGER DI SALMONE AL NATURALE",
     "descrizione": "",
     "immagine": "burger-di-salmone-al-naturale.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARETTO PUNTILLAS 3/5",
     "descrizione": "",
     "immagine": "calamaretto-puntillas-3-5.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COZZE MEZZO GUSCIO",
     "descrizione": "",
     "immagine": "cozze-mezzo-guscio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SEPPIA SPORCA SENEGAL BLOCK",
     "descrizione": "",
     "immagine": "seppia-sporca-senegal-block.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COZZE INTERE",
     "descrizione": "",
     "immagine": "cozze-intere.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COZZE SGUSCIATE CILE",
     "descrizione": "",
     "immagine": "cozze-sgusciate-cile.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "POLIPETTI",
     "descrizione": "",
     "immagine": "polipetti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "POLPO MAROCCO BLOCK",
     "descrizione": "",
     "immagine": "polpo-marocco-block.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "POLPO MAROCCO IQF VARIE PEZZATURE",
     "descrizione": "",
     "immagine": "polpo-marocco-iqf-varie-pezzature.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "VONGOLE CON GUSCIO",
     "descrizione": "",
     "immagine": "vongole-con-guscio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "VONGOLE SGUSCIATE",
     "descrizione": "",
     "immagine": "vongole-sgusciate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CAPPESANTE",
     "descrizione": "",
     "immagine": "cappesante.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SEPPIA INTERA IQF",
     "descrizione": "",
     "immagine": "seppia-intera-iqf.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SEPPIA PULITA",
     "descrizione": "",
     "immagine": "seppia-pulita.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SEPPIOLINE 60/UP",
     "descrizione": "",
     "immagine": "seppioline-60-up.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI DI TOTANO",
     "descrizione": "",
     "immagine": "anelli-di-totano.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TENTACOLI DI TOTANO TAGLIATI",
     "descrizione": "",
     "immagine": "tentacoli-di-totano-tagliati.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TOTANI ARGENTINI BLOCK",
     "descrizione": "",
     "immagine": "totani-argentini-block.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TOTANI ARGENTINI IQF",
     "descrizione": "",
     "immagine": "totani-argentini-iqf.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CANNOLICCHI",
     "descrizione": "",
     "immagine": "cannolicchi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GAMBERONE ARGENTINO INTERO",
     "descrizione": "",
     "immagine": "gamberone-argentino-intero.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ALCOCKI",
     "descrizione": "",
     "immagine": "alcocki.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GAMBERO SGUSCIATO INDIA",
     "descrizione": "",
     "immagine": "gambero-sgusciato-india.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SCAMPI",
     "descrizione": "",
     "immagine": "scampi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CODE DI MAZZANCOLLE",
     "descrizione": "",
     "immagine": "code-di-mazzancolle.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GAMBERONE SGUSCIATO ARGENTINO",
     "descrizione": "",
     "immagine": "gamberone-sgusciato-argentino.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MAZZANCOLLE SGUSCIATE ECUADOR",
     "descrizione": "",
     "immagine": "mazzancolle-sgusciate-ecuador.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SCAMPI INTERI CONGELATI A BORDO",
     "descrizione": "",
     "immagine": "scampi-interi-congelati-a-bordo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GAMBERO SGUSCIATO MEDITERRRANEO",
     "descrizione": "",
     "immagine": "gambero-sgusciato-mediterrraneo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MAZZANCOLLE",
     "descrizione": "",
     "immagine": "mazzancolle.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ASTICE",
     "descrizione": "",
     "immagine": "astice.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GAMBERETTO INTERO",
     "descrizione": "",
     "immagine": "gamberetto-intero.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CODE DI GAMBERONE ARGENTINO",
     "descrizione": "",
     "immagine": "code-di-gamberone-argentino.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILONI PESCE SPADA DI II",
     "descrizione": "",
     "immagine": "filoni-pesce-spada-di-ii.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCE SPADA FETTE",
     "descrizione": "",
     "immagine": "pesce-spada-fette.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO SCOGLIO",
     "descrizione": "",
     "immagine": "misto-scoglio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PAELLA",
     "descrizione": "",
     "immagine": "paella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INSALATA DI MARE CON POLPO",
     "descrizione": "",
     "immagine": "insalata-di-mare-con-polpo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO ALLA MARINARA",
     "descrizione": "",
     "immagine": "misto-alla-marinara.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PREPARATO GAMBERI E ZUCCHINE",
     "descrizione": "",
     "immagine": "preparato-gamberi-e-zucchine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PREPARATO PER RISOTTO",
     "descrizione": "",
     "immagine": "preparato-per-risotto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCE SPADA A FILONE",
     "descrizione": "",
     "immagine": "pesce-spada-a-filone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCE SPADA CON PANCIA",
     "descrizione": "",
     "immagine": "pesce-spada-con-pancia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCE SPADA PER COTOLETTE",
     "descrizione": "",
     "immagine": "pesce-spada-per-cotolette.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "QUARTI DI FILONE",
     "descrizione": "",
     "immagine": "quarti-di-filone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTINI DI PESCE SPADA SKIN",
     "descrizione": "",
     "immagine": "filettini-di-pesce-spada-skin.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRANCI DI II PESCE SPADA",
     "descrizione": "",
     "immagine": "tranci-di-ii-pesce-spada.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCE SPADA SPANCIATO",
     "descrizione": "",
     "immagine": "pesce-spada-spanciato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INSALATA DI MARE",
     "descrizione": "",
     "immagine": "insalata-di-mare.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RAVIOLI RICOTTA E SPINACI AL POMODORO",
     "descrizione": "",
     "immagine": "ravioli-ricotta-e-spinaci-al-pomodoro.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TAGLIOLINI ALLO SCOGLIO",
     "descrizione": "",
     "immagine": "tagliolini-allo-scoglio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TAGLIATELLE AI FUNGHI PORCINI",
     "descrizione": "",
     "immagine": "tagliatelle-ai-funghi-porcini.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GNOCCHI ALLA SORRENTINA",
     "descrizione": "",
     "immagine": "gnocchi-alla-sorrentina.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TONNARELLI CACIO E PEPE",
     "descrizione": "",
     "immagine": "tonnarelli-cacio-e-pepe.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "LASAGNA ALLA BOLOGNESE",
     "descrizione": "",
     "immagine": "lasagna-alla-bolognese.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RISOTTO DI MARE",
     "descrizione": "",
     "immagine": "risotto-di-mare.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPAGHETTI ALLE VONGOLE",
     "descrizione": "",
     "immagine": "spaghetti-alle-vongole.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PENNETTE SALMONE E GAMBERI",
     "descrizione": "",
     "immagine": "pennette-salmone-e-gamberi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUGHETTO AI CROSTACEI",
     "descrizione": "",
     "immagine": "sughetto-ai-crostacei.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUGHETTO PRONTO AI FRUTTI DI MARE",
     "descrizione": "",
     "immagine": "sughetto-pronto-ai-frutti-di-mare.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUGHETTO PRONTO ALLE COZZE",
     "descrizione": "",
     "immagine": "sughetto-pronto-alle-cozze.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUGHETTO PRONTO ALLO SCOGLIO CON POMODORO",
     "descrizione": "",
     "immagine": "sughetto-pronto-allo-scoglio-con-pomodoro.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUGHETTO PRONTO ALLE COZZE E PATATE",
     "descrizione": "",
     "immagine": "sughetto-pronto-alle-cozze-e-patate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "AGNOLOTTI BIANCONERI ALL’ARAGOSTA",
     "descrizione": "",
     "immagine": "agnolotti-bianconeri-all’aragosta.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RAVIOLI RICOTTA E SPINACI",
     "descrizione": "",
     "immagine": "ravioli-ricotta-e-spinaci.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI AL SAPORE DI MARE",
     "descrizione": "",
     "immagine": "fiori-al-sapore-di-mare.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RAVIOLI ROSA AL SALMONE",
     "descrizione": "",
     "immagine": "ravioli-rosa-al-salmone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANZEROTTI FUNGHI PORCINI",
     "descrizione": "",
     "immagine": "panzerotti-funghi-porcini.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTELLI ALLA CERNIA",
     "descrizione": "",
     "immagine": "tortelli-alla-cernia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI ALLA ROMANA",
     "descrizione": "",
     "immagine": "anelli-alla-romana.png",
-    "price": 0
+    "price": "€14,90/kg",
+    "code": "72"
   },
   {
     "nome": "ARROSTICINI DI TOTANO",
     "descrizione": "",
     "immagine": "arrosticini-di-totano.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI E CIUFFI DI CALAMARO PANATI E FRITTI",
     "descrizione": "",
     "immagine": "anelli-e-ciuffi-di-calamaro-panati-e-fritti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BACCALÀ PASTELLATO",
     "descrizione": "",
     "immagine": "baccalà-pastellato.png",
-    "price": 0
+    "price": "€15,00/kg",
+    "code": "32"
   },
   {
     "nome": "ARANCINETTI MISTO MARE",
     "descrizione": "",
     "immagine": "arancinetti-misto-mare.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BASTONCINI DI MERLUZZO",
     "descrizione": "",
     "immagine": "bastoncini-di-merluzzo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CHELE DI GRANCHIO PANATE",
     "descrizione": "",
     "immagine": "chele-di-granchio-panate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI NORDMEER",
     "descrizione": "",
     "immagine": "filetti-nordmeer.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CODE DI GAMBERONE PANATO",
     "descrizione": "",
     "immagine": "code-di-gamberone-panato.png",
-    "price": 0
+    "price": "€14,90/kg",
+    "code": "34"
   },
   {
     "nome": "CROCCOLONE DI MERLUZZO CON SPINACI E MOZZARELLA",
     "descrizione": "",
     "immagine": "croccolone-di-merluzzo-con-spinaci-e-mozzarella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI MERLUZZO PANATI",
     "descrizione": "",
     "immagine": "filetti-di-merluzzo-panati.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BOCCONCINI BACCALÀ PASTELLATO",
     "descrizione": "",
     "immagine": "bocconcini-baccalà-pastellato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GAMBERO PANATO AL PANKO",
     "descrizione": "",
     "immagine": "gambero-panato-al-panko.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI SOGLIOLA PANATI AL LIMONE",
     "descrizione": "",
     "immagine": "filetti-di-sogliola-panati-al-limone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CROCCOLE DI FILETTO DI SALMONE",
     "descrizione": "",
     "immagine": "croccole-di-filetto-di-salmone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COTOLETTA DI PESCE",
     "descrizione": "",
     "immagine": "cotoletta-di-pesce.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CRUNCHY FISH",
     "descrizione": "",
     "immagine": "crunchy-fish.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI PLATESSA PANATI",
     "descrizione": "",
     "immagine": "filetti-di-platessa-panati.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CROCCOLONE DI MERLUZZO CON POMODORO E MOZZARELLA",
     "descrizione": "",
     "immagine": "croccolone-di-merluzzo-con-pomodoro-e-mozzarella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FETTUCCINE DI TOTANO PANATE",
     "descrizione": "",
     "immagine": "fettuccine-di-totano-panate.png",
-    "price": 0
+    "price": "€13,90/kg",
+    "code": "35"
   },
   {
     "nome": "FUNNY FISH",
     "descrizione": "",
     "immagine": "funny-fish.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PORZIONE DI MERLUZZO PASTELLATO",
     "descrizione": "",
     "immagine": "porzione-di-merluzzo-pastellato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PORZIONE DI MERLUZZO ALLE SEGALE",
     "descrizione": "",
     "immagine": "porzione-di-merluzzo-alle-segale.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINI PROSCIUTTO/ MOZZARELLA",
     "descrizione": "",
     "immagine": "arancini-prosciutto-mozzarella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINI RAGÙ",
     "descrizione": "",
     "immagine": "arancini-ragù.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA MARGHERITA NUMERO UNO - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-margherita-numero-uno-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA MARGHERITA CON BORDO RIPIENO “LA BOMBA” - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-margherita-con-bordo-ripieno-“la-bomba”-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA PROSCIUTTO E FUNGHI 26*38 - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-prosciutto-e-funghi-26-38-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA SALSICCIA E PATATE 26*38 - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-salsiccia-e-patate-26-38-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA MARGHERITA 26*38 - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-margherita-26-38-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA WURSTEL E PATATINE 26*38 - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-wurstel-e-patatine-26-38-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINI PISTACCHIO/ PANCETTA",
     "descrizione": "",
     "immagine": "arancini-pistacchio-pancetta.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MAMMA MIA PIZZA MARGHERITA",
     "descrizione": "",
     "immagine": "mamma-mia-pizza-margherita.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANELLE",
     "descrizione": "",
     "immagine": "panelle.png",
-    "price": 0
+    "price": "€5,90/kg",
+    "code": "43"
   },
   {
     "nome": "TRIO CRISPY (BASTONCINI DI VERDURE BROCCOLI; MAIS, ZUCCA E CAROTE)",
     "descrizione": "",
     "immagine": "trio-crispy-bastoncini-di-verdure-broccoli;-mais,-zucca-e-carote.png",
-    "price": 0
+    "price": "€8,50/kg",
+    "code": "49"
   },
   {
     "nome": "ARANCINI FUNGHI E SALSICCIA",
     "descrizione": "",
     "immagine": "arancini-funghi-e-salsiccia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BURGER DI VERDURE GRIGLIATE E SCAMORZA",
     "descrizione": "",
     "immagine": "burger-di-verdure-grigliate-e-scamorza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BASTONCINI DI SPINACI",
     "descrizione": "",
     "immagine": "bastoncini-di-spinaci.png",
-    "price": 0
+    "price": "€7,90/kg",
+    "code": "50"
   },
   {
     "nome": "CROCCHETTE DI PATATE CAZZILLI",
     "descrizione": "",
     "immagine": "crocchette-di-patate-cazzilli.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOFTICROC FUNGHI E MOZZARELLA PRONTOFORNO",
     "descrizione": "",
     "immagine": "softicroc-funghi-e-mozzarella-prontoforno.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOFTICROC POMODORO E MOZZARELLA PRONTOFORNO",
     "descrizione": "",
     "immagine": "softicroc-pomodoro-e-mozzarella-prontoforno.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOFTICROC PROSCIUTTO E MOZZARELLA PRONTOFORNO",
     "descrizione": "",
     "immagine": "softicroc-prosciutto-e-mozzarella-prontoforno.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOFTICROC DA FORNO MOZZARELLA E FORMAGGIO",
     "descrizione": "",
     "immagine": "softicroc-da-forno-mozzarella-e-formaggio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BURGER DI PESCE SPADA PANATO",
     "descrizione": "",
     "immagine": "burger-di-pesce-spada-panato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CALAMARO RIPIENO",
     "descrizione": "",
     "immagine": "calamaro-ripieno.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COTOLETTA DI PESCE SPADA PANATA",
     "descrizione": "",
     "immagine": "cotoletta-di-pesce-spada-panata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SARDE BECCAFICO",
     "descrizione": "",
     "immagine": "sarde-beccafico.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPIEDINI DI GAMBERO",
     "descrizione": "",
     "immagine": "spiedini-di-gambero.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COZZE GRATINATE",
     "descrizione": "",
     "immagine": "cozze-gratinate.png",
-    "price": 0
+    "price": "€16,50/kg",
+    "code": "36"
   },
   {
     "nome": "CALAMARI RIPIENI GRATINATI",
     "descrizione": "",
     "immagine": "calamari-ripieni-gratinati.png",
-    "price": 0
+    "price": "€21,50/kg",
+    "code": "29"
   },
   {
     "nome": "CONDIMENTO PESCE SPADA POMODORO E MELANZANE",
     "descrizione": "",
     "immagine": "condimento-pesce-spada-pomodoro-e-melanzane.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INVOLTINI DI SPATOLA AGLI AGRUMI",
     "descrizione": "",
     "immagine": "involtini-di-spatola-agli-agrumi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COZZE GRATINATE",
     "descrizione": "",
     "immagine": "cozze-gratinate-2.png",
-    "price": 0
+    "price": "€16,50/kg",
+    "code": "36"
   },
   {
     "nome": "SPIEDINI DI SALMONE E ZUCCHINE CON GRANELLA DI PISTACCHII",
     "descrizione": "",
     "immagine": "spiedini-di-salmone-e-zucchine-con-granella-di-pistacchii.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPIEDINI DI PESCE GRATINATI",
     "descrizione": "",
     "immagine": "spiedini-di-pesce-gratinati.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPIEDINI DI MAZZANCOLLE GRATINATE",
     "descrizione": "",
     "immagine": "spiedini-di-mazzancolle-gratinate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CROCCHETTE PESCE SPADA/ MELANZANE",
     "descrizione": "",
     "immagine": "crocchette-pesce-spada-melanzane.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI AL NERO DI SEPPIA",
     "descrizione": "",
     "immagine": "arancinetti-al-nero-di-seppia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI AL PESCE SPADA E MELANZANE",
     "descrizione": "",
     "immagine": "arancinetti-al-pesce-spada-e-melanzane.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTI DI ALICI DEL MEDITERRANEO GRATINATE",
     "descrizione": "",
     "immagine": "filetti-di-alici-del-mediterraneo-gratinate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BURGER DI TONNO E ZUCCHINE GRATINATI",
     "descrizione": "",
     "immagine": "burger-di-tonno-e-zucchine-gratinati.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COTOLETTE DI PESCE SPADA GRATINATE",
     "descrizione": "",
     "immagine": "cotolette-di-pesce-spada-gratinate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INVOLTINI DI PESCE SPADA GRATINATI",
     "descrizione": "",
     "immagine": "involtini-di-pesce-spada-gratinati.png",
-    "price": 0
+    "price": "€20,00/kg",
+    "code": "30"
   },
   {
     "nome": "INVOLTINI DI PESCE SPADA AL PESTO DI PISTACCHIO",
     "descrizione": "",
     "immagine": "involtini-di-pesce-spada-al-pesto-di-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPIEDINI DI PESCE",
     "descrizione": "",
     "immagine": "spiedini-di-pesce.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INVOLTINI PESCE SPADA AGRUMI E PISTACCHIO",
     "descrizione": "",
     "immagine": "involtini-pesce-spada-agrumi-e-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPIEDINI DI PESCE SPADA",
     "descrizione": "",
     "immagine": "spiedini-di-pesce-spada.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
     "descrizione": "",
     "immagine": "arancinetti-gamberi-e-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BURGER DI MERLUZZO ALLA PIZZAIOLA",
     "descrizione": "",
     "immagine": "burger-di-merluzzo-alla-pizzaiola.png",
-    "price": 0
+    "price": "€14,90/kg",
+    "code": "28"
   },
   {
     "nome": "CROCCHÈ FARCITO SALSICCIA E FRIARELLI",
     "descrizione": "",
     "immagine": "crocchè-farcito-salsiccia-e-friarelli.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI DI ZUCCA CON PROSCIUTTO E MOZZARELLA",
     "descrizione": "",
     "immagine": "fiori-di-zucca-con-prosciutto-e-mozzarella.png",
-    "price": 0
+    "price": "€17,50/kg",
+    "code": "42"
   },
   {
     "nome": "FRITTELLE DI GUSTO GRANCHIO",
     "descrizione": "",
     "immagine": "frittelle-di-gusto-granchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
     "descrizione": "",
     "immagine": "arancinetti-gamberi-e-pistacchio-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI GAMBERI E PISTACCHIO",
     "descrizione": "",
     "immagine": "arancinetti-gamberi-e-pistacchio-3.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI PIÙ GUSTI",
     "descrizione": "",
     "immagine": "arancinetti-più-gusti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI DI ZUCCA ROBIOLA E GAMBERETTI",
     "descrizione": "",
     "immagine": "fiori-di-zucca-robiola-e-gamberetti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI DI ZUCCA CON RICOTTA E PROVOLA",
     "descrizione": "",
     "immagine": "fiori-di-zucca-con-ricotta-e-provola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ARANCINETTI RAGÙ",
     "descrizione": "",
     "immagine": "arancinetti-ragù.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI DI ZUCCA CON ALICI E MOZZARELLA",
     "descrizione": "",
     "immagine": "fiori-di-zucca-con-alici-e-mozzarella.png",
-    "price": 0
+    "price": "€15,90/kg",
+    "code": "37"
   },
   {
     "nome": "FRITTELLE GUSTO ALGHE",
     "descrizione": "",
     "immagine": "frittelle-gusto-alghe.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRITTELLE GUSTO DI SALMONE",
     "descrizione": "",
     "immagine": "frittelle-gusto-di-salmone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MOZZARELLA IN CARROZZA MIGNON",
     "descrizione": "",
     "immagine": "mozzarella-in-carrozza-mignon.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MOZZARELLA STICK",
     "descrizione": "",
     "immagine": "mozzarella-stick.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPECK E PROVOLA IN CARROZZA",
     "descrizione": "",
     "immagine": "speck-e-provola-in-carrozza.png",
-    "price": 0
+    "price": "€11,90/kg",
+    "code": "47"
   },
   {
     "nome": "SALATINI MICRO AL BURRO 6 GUSTI",
     "descrizione": "",
     "immagine": "salatini-micro-al-burro-6-gusti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SFOGLIATELLA RICCIA E FROLLA",
     "descrizione": "",
     "immagine": "sfogliatella-riccia-e-frolla.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRAMEZZINO SPECK E PROVOLA PANATO",
     "descrizione": "",
     "immagine": "tramezzino-speck-e-provola-panato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRAMEZZINO MORTADELLA E STRACCIATELLA",
     "descrizione": "",
     "immagine": "tramezzino-mortadella-e-stracciatella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANINO LA ROMANACCIA",
     "descrizione": "",
     "immagine": "panino-la-romanaccia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRITTELLE GUSTO GAMBERO E ZUCCHINE",
     "descrizione": "",
     "immagine": "frittelle-gusto-gambero-e-zucchine.png",
-    "price": 0
+    "price": "€11,90/kg",
+    "code": "74"
   },
   {
     "nome": "CROCCHÈ NAPOLETANO SUPER CRUNCHY CON SALAME",
     "descrizione": "",
     "immagine": "crocchè-napoletano-super-crunchy-con-salame.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MOZZARELLINE PANATE PRONTOFORNO",
     "descrizione": "",
     "immagine": "mozzarelline-panate-prontoforno.png",
-    "price": 0
+    "price": "€10,90/kg",
+    "code": "52"
   },
   {
     "nome": "FRITTO MISTO DELL’ORTO",
     "descrizione": "",
     "immagine": "fritto-misto-dell’orto.png",
-    "price": 0
+    "price": "€9,90/kg",
+    "code": "46"
   },
   {
     "nome": "MISTO FRITTO (CROCCHÈ MOZZARELLA-ARANCINO RAGÙ- FRITTATINA SPAGHETTI-DELIZIE 4 FORMAGGI-SCAGLIOZZO DI POLENTA)",
     "descrizione": "",
     "immagine": "misto-fritto-crocchè-mozzarella-arancino-ragù-frittatina-spaghetti-delizie-4-for.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "OLIVE ASCOLANA",
     "descrizione": "",
     "immagine": "olive-ascolana.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RUSTICI MIGNON ASSORTITI 7 GUSTI",
     "descrizione": "",
     "immagine": "rustici-mignon-assortiti-7-gusti.png",
-    "price": 0
+    "price": "€4,90/kg",
+    "code": "76"
   },
   {
     "nome": "PANZEROTTINI PIZZAIOLA",
     "descrizione": "",
     "immagine": "panzerottini-pizzaiola.png",
-    "price": 0
+    "price": "€9,50/kg",
+    "code": "41"
   },
   {
     "nome": "INVOLTINI DI PRIMAVERA",
     "descrizione": "",
     "immagine": "involtini-di-primavera.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RAVIOLI MAIALE E VERZA",
     "descrizione": "",
     "immagine": "ravioli-maiale-e-verza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INVOLTINI PRIMAVERA VEGANI",
     "descrizione": "",
     "immagine": "involtini-primavera-vegani.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TEMPURA DI MAZZANCOLLE",
     "descrizione": "",
     "immagine": "tempura-di-mazzancolle.png",
-    "price": 0
+    "price": "€19,90/kg",
+    "code": "70"
   },
   {
     "nome": "RAVIOLI AI GAMBERI",
     "descrizione": "",
     "immagine": "ravioli-ai-gamberi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUSHI",
     "descrizione": "",
     "immagine": "sushi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANE ORIENTALE",
     "descrizione": "",
     "immagine": "pane-orientale.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANE CONIGLIO",
     "descrizione": "",
     "immagine": "pane-coniglio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FILETTO DI BACCALÀ PASTELLATO SENZA GLUTINE",
     "descrizione": "",
     "immagine": "filetto-di-baccalà-pastellato-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BASE PIZZA SENZA GLUTINE GRECI",
     "descrizione": "",
     "immagine": "base-pizza-senza-glutine-greci.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FIORI DI ZUCCA SENZA GLUTINE",
     "descrizione": "",
     "immagine": "fiori-di-zucca-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CROCCHETTE DI PATATE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "crocchette-di-patate-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUPPLI’ DI RISO SENZA GLUTINE",
     "descrizione": "",
     "immagine": "suppli’-di-riso-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MOZZARELLINE PANATE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "mozzarelline-panate-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PIZZA MARGHERITA SENZA GLUTINE E SENZA LATTOSIO - ITALPIZZA",
     "descrizione": "",
     "immagine": "pizza-margherita-senza-glutine-e-senza-lattosio-italpizza.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BRANZINO GRIGLIATO CON VERDURE GRIGLIATE",
     "descrizione": "",
     "immagine": "branzino-grigliato-con-verdure-grigliate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CIABBATTA DI PANE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "ciabbatta-di-pane-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CHEESECAKE LAMPONE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "cheesecake-lampone-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TIRAMISÙ SENZA GLUTINE",
     "descrizione": "",
     "immagine": "tiramisù-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA SACHER SENZA GLUTINE",
     "descrizione": "",
     "immagine": "torta-sacher-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CROISSANT SENZA GLUTINE",
     "descrizione": "",
     "immagine": "croissant-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MUFFIN SENZA GLUTINE",
     "descrizione": "",
     "immagine": "muffin-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "AGLIO CUBETTI ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "aglio-cubetti-astuccio-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CAROTINE BABY PASSIONE VERDE",
     "descrizione": "",
     "immagine": "carotine-baby-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BASILICO TRITATO ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "basilico-tritato-astuccio-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CARCIOFI CUORE PASSIONE VERDE",
     "descrizione": "",
     "immagine": "carciofi-cuore-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CIPOLLA A CUBETTI ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "cipolla-a-cubetti-astuccio-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BIETA CUBETTI PASSIONE VERDE",
     "descrizione": "",
     "immagine": "bieta-cubetti-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CARCIOFI SPICCHI",
     "descrizione": "",
     "immagine": "carciofi-spicchi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FAGIOLI BORLOTTI PASSIONE VERDE",
     "descrizione": "",
     "immagine": "fagioli-borlotti-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ZUCCA A CUBETTI",
     "descrizione": "",
     "immagine": "zucca-a-cubetti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FAVE PASSIONE VERDE",
     "descrizione": "",
     "immagine": "fave-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINESTRONE 15 VERDURE PASSIONE VERDE",
     "descrizione": "",
     "immagine": "minestrone-15-verdure-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO PER SOFFRITTO ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "misto-per-soffritto-astuccio-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRIARIELLI FOGLIA PASSIONE VERDE",
     "descrizione": "",
     "immagine": "friarielli-foglia-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PREZZEMOLO TRITATO ASTUCCIO PASSIONE VERDE",
     "descrizione": "",
     "immagine": "prezzemolo-tritato-astuccio-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PEPERONI GRIGLIATI SOLE DI SICILIA",
     "descrizione": "",
     "immagine": "peperoni-grigliati-sole-di-sicilia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRIS DI VERDURE GRIGLIATE MEDITERRANEE PASSIONE VERDE",
     "descrizione": "",
     "immagine": "tris-di-verdure-grigliate-mediterranee-passione-verde.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ZUCCHINE GRIGLIATE SOLE DI SICILIA",
     "descrizione": "",
     "immagine": "zucchine-grigliate-sole-di-sicilia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MELANZANE GRIGLIATE SOLE DI SICILIA",
     "descrizione": "",
     "immagine": "melanzane-grigliate-sole-di-sicilia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINESTRONE LIGHT GUSTO E LINEA",
     "descrizione": "",
     "immagine": "minestrone-light-gusto-e-linea.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "AGLIO A SPICCHI",
     "descrizione": "",
     "immagine": "aglio-a-spicchi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CIPOLLA A FETTE",
     "descrizione": "",
     "immagine": "cipolla-a-fette.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CARCIOFI A SPICCHI",
     "descrizione": "",
     "immagine": "carciofi-a-spicchi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO PER SOFFRITTO",
     "descrizione": "",
     "immagine": "misto-per-soffritto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PISELLI FINI",
     "descrizione": "",
     "immagine": "piselli-fini.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CAROTINE BABY",
     "descrizione": "",
     "immagine": "carotine-baby.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO CONTORNO PISELLI FINISSIMI E CAROTE",
     "descrizione": "",
     "immagine": "misto-contorno-piselli-finissimi-e-carote.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PISELLI FINISSIMI",
     "descrizione": "",
     "immagine": "piselli-finissimi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ZUCCHINE A DISCO",
     "descrizione": "",
     "immagine": "zucchine-a-disco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO PREZZEMOLO E AGLIO",
     "descrizione": "",
     "immagine": "misto-prezzemolo-e-aglio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BROCCOLI ROSETTE",
     "descrizione": "",
     "immagine": "broccoli-rosette.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CIPOLLA A CUBETTI",
     "descrizione": "",
     "immagine": "cipolla-a-cubetti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CAVOLFIORE ROSETTE",
     "descrizione": "",
     "immagine": "cavolfiore-rosette.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CAROTE A RONDELLE",
     "descrizione": "",
     "immagine": "carote-a-rondelle.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINESTRONE",
     "descrizione": "",
     "immagine": "minestrone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FAGIOLINI FINI",
     "descrizione": "",
     "immagine": "fagiolini-fini.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "INSALATA RUSSA",
     "descrizione": "",
     "immagine": "insalata-russa.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPINACI A CUBETTO",
     "descrizione": "",
     "immagine": "spinaci-a-cubetto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO CONTORNO MIX DI BROCCOLI",
     "descrizione": "",
     "immagine": "misto-contorno-mix-di-broccoli.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO CONTORNO VERDURE GRIGLIATE CON PATATE",
     "descrizione": "",
     "immagine": "misto-contorno-verdure-grigliate-con-patate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FUNGHI PORCINI CUBETTI DA 1KG",
     "descrizione": "",
     "immagine": "funghi-porcini-cubetti-da-1kg.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FUNGHI CHAMPIGNON",
     "descrizione": "",
     "immagine": "funghi-champignon.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FUNGHI PORCINI INTERI",
     "descrizione": "",
     "immagine": "funghi-porcini-interi.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRAGOLINE",
     "descrizione": "",
     "immagine": "fragoline.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ERBA CIPOLLINA",
     "descrizione": "",
     "immagine": "erba-cipollina.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO CONTORNO VERDURE GRIGLIATE",
     "descrizione": "",
     "immagine": "misto-contorno-verdure-grigliate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MISTO PREZZEMOLO E AGLIO",
     "descrizione": "",
     "immagine": "misto-prezzemolo-e-aglio-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRAGOLE INTERE",
     "descrizione": "",
     "immagine": "fragole-intere.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FUNGHI MISTO BOSCO CON PORCINI",
     "descrizione": "",
     "immagine": "funghi-misto-bosco-con-porcini.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FUNGHI PORCINI INTERI DA 1KG",
     "descrizione": "",
     "immagine": "funghi-porcini-interi-da-1kg.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRUTTI DI BOSCO",
     "descrizione": "",
     "immagine": "frutti-di-bosco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FUNGHI PORCINI CUBETTI",
     "descrizione": "",
     "immagine": "funghi-porcini-cubetti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MIRTILLI",
     "descrizione": "",
     "immagine": "mirtilli.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI DI CIPOLLA PANATI",
     "descrizione": "",
     "immagine": "anelli-di-cipolla-panati.png",
-    "price": 0
+    "price": "€6,90/kg",
+    "code": "45"
   },
   {
     "nome": "DUCHESSES",
     "descrizione": "",
     "immagine": "duchesses.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE SWEET",
     "descrizione": "",
     "immagine": "patate-sweet.png",
-    "price": 0
+    "price": "€7,90/kg",
+    "code": "40"
   },
   {
     "nome": "PATATE STICK PREFRITTE 10x10mm",
     "descrizione": "",
     "immagine": "patate-stick-prefritte-10x10mm.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE WEDGES SKIN ON",
     "descrizione": "",
     "immagine": "patate-wedges-skin-on.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE CRISPY SENZA GLUTINE",
     "descrizione": "",
     "immagine": "patate-crispy-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE NOISETTES",
     "descrizione": "",
     "immagine": "patate-noisettes.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE CRISPY STEAKHOUSE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "patate-crispy-steakhouse-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE STICK PREFRITTE 12x12mm",
     "descrizione": "",
     "immagine": "patate-stick-prefritte-12x12mm.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE CRINCKLE",
     "descrizione": "",
     "immagine": "patate-crinckle.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE ROSTIES CON CIPOLLA",
     "descrizione": "",
     "immagine": "patate-rosties-con-cipolla.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE TWISTER",
     "descrizione": "",
     "immagine": "patate-twister.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE ALPHABYTES",
     "descrizione": "",
     "immagine": "patate-alphabytes.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CROCCHETTE DI PATATE PREFRITTE",
     "descrizione": "",
     "immagine": "crocchette-di-patate-prefritte.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE HOT&SPICY WEDGES",
     "descrizione": "",
     "immagine": "patate-hot-spicy-wedges.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE SLICES",
     "descrizione": "",
     "immagine": "patate-slices.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE SCOOPS DIPPERS",
     "descrizione": "",
     "immagine": "patate-scoops-dippers.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PATATE STEAKHOUSE PREFRITTE 18x20mm",
     "descrizione": "",
     "immagine": "patate-steakhouse-prefritte-18x20mm.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTI CEREALI E MIRTILLI",
     "descrizione": "",
     "immagine": "cornetti-cereali-e-mirtilli.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO ISCHIA DOPPIO IMPASTO",
     "descrizione": "",
     "immagine": "cornetto-ischia-doppio-impasto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO CURVO BICOLORE FRUTTI DI BOSCO",
     "descrizione": "",
     "immagine": "cornetto-curvo-bicolore-frutti-di-bosco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO DIRITTO CEREALI E MIELE",
     "descrizione": "",
     "immagine": "cornetto-diritto-cereali-e-miele.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRAN CORNETTO CONFETTURA ALBICOCCA",
     "descrizione": "",
     "immagine": "gran-cornetto-confettura-albicocca.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTI PISTACCHIO",
     "descrizione": "",
     "immagine": "cornetti-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRAN CORNETTO FARCITURA CREMA CHANTILLY",
     "descrizione": "",
     "immagine": "gran-cornetto-farcitura-crema-chantilly.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRAN CORNETTO FARCITURA NOCCIOLA",
     "descrizione": "",
     "immagine": "gran-cornetto-farcitura-nocciola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO CURVO BICOLORE FRUTTI DI BOSCO",
     "descrizione": "",
     "immagine": "cornetto-curvo-bicolore-frutti-di-bosco-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO NUTELLA FERRERO",
     "descrizione": "",
     "immagine": "cornetto-nutella-ferrero.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO VEGANO AI MIRTILLI",
     "descrizione": "",
     "immagine": "cornetto-vegano-ai-mirtilli.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRECCIA NOCI PECAN",
     "descrizione": "",
     "immagine": "treccia-noci-pecan.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FAGOTTO AI 3 CIOCCOLATI",
     "descrizione": "",
     "immagine": "fagotto-ai-3-cioccolati.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORNETTO INTEGRALE CON ARANCIA",
     "descrizione": "",
     "immagine": "cornetto-integrale-con-arancia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRAN CORNETTO MARMELLATA ALBICOCCA",
     "descrizione": "",
     "immagine": "gran-cornetto-marmellata-albicocca.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINI PANZEROTTO RICOTTA CON GIOCCE DI CIOCCOLATO",
     "descrizione": "",
     "immagine": "mini-panzerotto-ricotta-con-giocce-di-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MUFFIN NUTELLA",
     "descrizione": "",
     "immagine": "muffin-nutella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "DONUTS ZEBRA",
     "descrizione": "",
     "immagine": "donuts-zebra.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "DONUTS MIX",
     "descrizione": "",
     "immagine": "donuts-mix.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ROTOLOTTO NOCCIOLA (FLAUTO)",
     "descrizione": "",
     "immagine": "rotolotto-nocciola-flauto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINI PASTICCIOTTO CREMA/ AMARENA",
     "descrizione": "",
     "immagine": "mini-pasticciotto-crema-amarena.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TIRAMISÙ QUADROTTO",
     "descrizione": "",
     "immagine": "tiramisù-quadrotto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PROFITEROLES CACAO",
     "descrizione": "",
     "immagine": "profiteroles-cacao.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANNACOTTA CARAMELLO",
     "descrizione": "",
     "immagine": "pannacotta-caramello.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TARTUFO BIANCO",
     "descrizione": "",
     "immagine": "tartufo-bianco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TARTUFO NERO",
     "descrizione": "",
     "immagine": "tartufo-nero.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TARTUFO PISTACCHIO",
     "descrizione": "",
     "immagine": "tartufo-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOUFFLÈ AL CIOCCOLATO",
     "descrizione": "",
     "immagine": "soufflè-al-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOUFFLÈ AL CIOCCOLATO BIANCO",
     "descrizione": "",
     "immagine": "soufflè-al-cioccolato-bianco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RICOPERTO",
     "descrizione": "",
     "immagine": "ricoperto.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SOUFFLÈ AL PISTACCHIO",
     "descrizione": "",
     "immagine": "soufflè-al-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BISCOTTO PANNA/CACAO",
     "descrizione": "",
     "immagine": "biscotto-panna-cacao.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COPPA PANNA/CACAO",
     "descrizione": "",
     "immagine": "coppa-panna-cacao.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CONO PANNA/CACAO",
     "descrizione": "",
     "immagine": "cono-panna-cacao.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINI MIX",
     "descrizione": "",
     "immagine": "mini-mix.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRAGOLOSO",
     "descrizione": "",
     "immagine": "fragoloso.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GHIACCIOLO",
     "descrizione": "",
     "immagine": "ghiacciolo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "MINISTECCO",
     "descrizione": "",
     "immagine": "ministecco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA CASSATA",
     "descrizione": "",
     "immagine": "torta-cassata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SORBETTO LIMONE VASCHETTA DA 1 KG",
     "descrizione": "",
     "immagine": "sorbetto-limone-vaschetta-da-1-kg.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRONCHETTO ROSCÈ SENZA GLUTINE",
     "descrizione": "",
     "immagine": "tronchetto-roscè-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRONCHETTO BACIONE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "tronchetto-bacione-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRONCHETTO PARFAIT MANDORLE SENZA GLUTINE",
     "descrizione": "",
     "immagine": "tronchetto-parfait-mandorle-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRONCHETTO SETTEVELI PISTACCHIO SENZA GLUTINE",
     "descrizione": "",
     "immagine": "tronchetto-setteveli-pistacchio-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA SETTEVELI CLASSICA SENZA GLUTINE",
     "descrizione": "",
     "immagine": "torta-setteveli-classica-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA GRAN NOCCIOLATO",
     "descrizione": "",
     "immagine": "torta-gran-nocciolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA NOCCIOLA E CIOCCOLATO",
     "descrizione": "",
     "immagine": "torta-nocciola-e-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA PANNA E FRAGOLE",
     "descrizione": "",
     "immagine": "torta-panna-e-fragole.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA PISTACCHIO E NOCCIOLA",
     "descrizione": "",
     "immagine": "torta-pistacchio-e-nocciola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA ROSCÈ 1KG",
     "descrizione": "",
     "immagine": "torta-roscè-1kg.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA PANNA E NOCCIOLA SENZA GLUTINE",
     "descrizione": "",
     "immagine": "torta-panna-e-nocciola-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TORTA SETTEVELI AL PISTACCHIO SENZA GLUTINE",
     "descrizione": "",
     "immagine": "torta-setteveli-al-pistacchio-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "TRONCHETTO PANNA E NOCCIOLA SENZA GLUTINE",
     "descrizione": "",
     "immagine": "tronchetto-panna-e-nocciola-senza-glutine.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CIOCCOLATO - STRACCIATELLA - CAFFÈ",
     "descrizione": "",
     "immagine": "cioccolato-stracciatella-caffè.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRAGOLA - LIMONE",
     "descrizione": "",
     "immagine": "fragola-limone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BISCOTTO - PANNA - CACAO",
     "descrizione": "",
     "immagine": "biscotto-panna-cacao-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CONO - PANNA",
     "descrizione": "",
     "immagine": "cono-panna.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CONO - PANNA - CACAO",
     "descrizione": "",
     "immagine": "cono-panna-cacao-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "NOCCIOLA - CIOCCOLATO",
     "descrizione": "",
     "immagine": "nocciola-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PISTACCHIO - NOCCIOLA",
     "descrizione": "",
     "immagine": "pistacchio-nocciola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPAGNOLA",
     "descrizione": "",
     "immagine": "spagnola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SETTEDELIZIE AMOROSA",
     "descrizione": "",
     "immagine": "settedelizie-amorosa.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BACIO - NOCCIOLA",
     "descrizione": "",
     "immagine": "bacio-nocciola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PESCA - FRUTTI DI BOSCO",
     "descrizione": "",
     "immagine": "pesca-frutti-di-bosco.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CASSATA",
     "descrizione": "",
     "immagine": "cassata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BISCOTTO - PANNA",
     "descrizione": "",
     "immagine": "biscotto-panna.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CASSATA",
     "descrizione": "",
     "immagine": "cassata-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PISTACCHIO - CIOCCOLATO",
     "descrizione": "",
     "immagine": "pistacchio-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ZUPPA INGLESE",
     "descrizione": "",
     "immagine": "zuppa-inglese.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CIOCCOLATO",
     "descrizione": "",
     "immagine": "cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "FRAGOLA",
     "descrizione": "",
     "immagine": "fragola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SORBETTO LIMONE",
     "descrizione": "",
     "immagine": "sorbetto-limone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "STRACCIATELLA",
     "descrizione": "",
     "immagine": "stracciatella.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PISTACCHIO",
     "descrizione": "",
     "immagine": "pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "NOCCIOLA",
     "descrizione": "",
     "immagine": "nocciola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "OREO",
     "descrizione": "",
     "immagine": "oreo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "NOCCIOLA - CIOCCOLATO",
     "descrizione": "",
     "immagine": "nocciola-cioccolato-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRAN NOCCIOLATO",
     "descrizione": "",
     "immagine": "gran-nocciolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BISCOTTINO",
     "descrizione": "",
     "immagine": "biscottino.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CREMA REALE",
     "descrizione": "",
     "immagine": "crema-reale.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PANNA - FRAGOLA",
     "descrizione": "",
     "immagine": "panna-fragola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SPAGNOLA",
     "descrizione": "",
     "immagine": "spagnola-2.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "VANIGLIA",
     "descrizione": "",
     "immagine": "vaniglia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GELATO ELITE ZERO CAFFÈ",
     "descrizione": "",
     "immagine": "gelato-elite-zero-caffè.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GELATO ELITE HIGH PROTEIN CIOCCOLATO",
     "descrizione": "",
     "immagine": "gelato-elite-high-protein-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA LIMONE",
     "descrizione": "",
     "immagine": "granita-limone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA CIOCCOLATO",
     "descrizione": "",
     "immagine": "granita-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA MANDORLA TOSTATA",
     "descrizione": "",
     "immagine": "granita-mandorla-tostata.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GELATO ELITE ZERO CIOCCOLATO",
     "descrizione": "",
     "immagine": "gelato-elite-zero-cioccolato.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GELATO ELITE ZERO FIOR DI LATTE",
     "descrizione": "",
     "immagine": "gelato-elite-zero-fior-di-latte.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GELATO ELITE ZERO NOCCIOLA",
     "descrizione": "",
     "immagine": "gelato-elite-zero-nocciola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GELATO ELITE ZERO PISTACCHIO",
     "descrizione": "",
     "immagine": "gelato-elite-zero-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA MANDORLA",
     "descrizione": "",
     "immagine": "granita-mandorla.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA FRAGOLA",
     "descrizione": "",
     "immagine": "granita-fragola.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA GELSI NERI",
     "descrizione": "",
     "immagine": "granita-gelsi-neri.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GRANITA PISTACCHIO",
     "descrizione": "",
     "immagine": "granita-pistacchio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANIMALETTI DI POLLO",
     "descrizione": "",
     "immagine": "animaletti-di-pollo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "STICK POLLO",
     "descrizione": "",
     "immagine": "stick-pollo.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "BOCCONCINI DI POLLO",
     "descrizione": "",
     "immagine": "bocconcini-di-pollo.png",
-    "price": 0
+    "price": "€8,90/kg",
+    "code": "54"
   },
   {
     "nome": "BORSETTO PROSCIUTTO E FORMAGGIO",
     "descrizione": "",
     "immagine": "borsetto-prosciutto-e-formaggio.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "COTOLETTE DI POLLO",
     "descrizione": "",
     "immagine": "cotolette-di-pollo.png",
-    "price": 0
+    "price": "€8,90/kg",
+    "code": "55"
   },
   {
     "nome": "COTOLETTE DI POLLO E SPINACI",
     "descrizione": "",
     "immagine": "cotolette-di-pollo-e-spinaci.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ANELLI DI POLLO E BACON",
     "descrizione": "",
     "immagine": "anelli-di-pollo-e-bacon.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "ALETTE DI POLLO - BARBECUE",
     "descrizione": "",
     "immagine": "alette-di-pollo-barbecue.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "CORDON BLEAU DI POLLO CON PROSCIUTTO E FORMAGGIO",
     "descrizione": "",
     "immagine": "cordon-bleau-di-pollo-con-prosciutto-e-formaggio.png",
-    "price": 0
+    "price": "€8,30/kg",
+    "code": "56"
   },
   {
     "nome": "STRIPS POLLO PICCANTI",
     "descrizione": "",
     "immagine": "strips-pollo-piccanti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "PEPITE POLLO PASTELLATE",
     "descrizione": "",
     "immagine": "pepite-pollo-pastellate.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "GHIACCIO ALIMENTARE A CUBETTI",
     "descrizione": "",
     "immagine": "ghiaccio-alimentare-a-cubetti.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUCCO DI LIMONE",
     "descrizione": "",
     "immagine": "succo-di-limone.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "SUCCO DI ARANCIA",
     "descrizione": "",
     "immagine": "succo-di-arancia.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   },
   {
     "nome": "RICOTTA SECCHIELLO",
     "descrizione": "",
     "immagine": "ricotta-secchiello.png",
-    "price": 0
+    "price": 0,
+    "code": ""
   }
 ]
